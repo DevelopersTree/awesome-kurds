@@ -31,6 +31,11 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 
 # Computer Networks Engineers
+ - [Samal Samaly](https://twitter.com/Samalsamaly)
+ - [Edris Muhammed](https://twitter.com/Edris__Muhammed)
+ - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
+ - [Ahmed Jalal](https://twitter.com/EngAhmedJalal1)
+ - [Ahmed Abdullah](https://www.facebook.com/Ahmed.A.Qadir)
 
 # Data (and ML) Scientists
  - [Aza Kamala](https://twitter.com/AzaKamala)
