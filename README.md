@@ -28,6 +28,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 # UI/UX Designers
 
 # Cybersecurity Sepcialists
+- [Muhammed Naqshabandi](https://twitter.com/zertux6)
 
 # Computer Networks Engineers
 
