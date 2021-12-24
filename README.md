@@ -1,7 +1,7 @@
 # Awesome IT Kurds
 A list of cool kurds working in the IT industry to follow and meet! The list is in alphabetical order. Feel free to send a PR and add your name!
 
-# Software Developers
+## Software Developer
  - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
  - [Ahmed](https://twitter.com/rockweII)
  - [Akam Foad](https://twitter.com/AkamFoad)
@@ -26,22 +26,22 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Vazhin Tayeb](https://twitter.com/vazhinn)
  - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
-# UI/UX Designers
+## UI/UX Designer
  - [Suvi](https://twitter.com/suuuvi99)
 
-# Cybersecurity Sepcialists
+## Cybersecurity
 - [Adnan Anwar](https://twitter.com/AdanAnwar15)
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
-# Computer Networks Engineers
+## Network
  - [Ahmed Abdullah](https://www.facebook.com/Ahmed.A.Qadir)
  - [Ahmed Jalal](https://twitter.com/EngAhmedJalal1)
  - [Edris Muhammed](https://twitter.com/Edris__Muhammed)
  - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
  - [Samal Samaly](https://twitter.com/Samalsamaly)
 
-# Data (and ML) Scientists
+## Data Scientists
  - [Aza Kamala](https://twitter.com/AzaKamala)
  - [Abdulbasit Zahir](https://twitter.com/Hamza_X98)
  - [Dolan](https://twitter.com/dolanskurd)
@@ -50,6 +50,6 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Layik Hama](https://twitter.com/layik)
  - [Sina Ahmadi](https://twitter.com/sina_ahm)
 
-# Product Owners / Program Managers / Requirement Analysts
+## Product Owners
 - [Rebaz Omer](https://twitter.com/Randoz)
 - [Hakar Saber](https://twitter.com/HakarSaber)
