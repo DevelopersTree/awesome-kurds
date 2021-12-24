@@ -22,7 +22,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): ASP.NET Core, C#, DevOps
  - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
  - [Rawand Rebwar](https://twitter.com/R4wand)
- - [Rebin Qadir](https://twitter.com/rebiin)
+ - [Rebin Qadir](https://twitter.com/rebiiin)
  - [Shkar Taib](https://twitter.com/Shkarface)
  - [Vazhin Tayeb](https://twitter.com/vazhinn)
  - [Xaliss Pasha](https://twitter.com/XalissPasha)
