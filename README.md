@@ -27,6 +27,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
 ## UI/UX Designer
+ - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
  - [Suvi](https://twitter.com/suuuvi99)
 
 ## Cybersecurity
