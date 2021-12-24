@@ -42,6 +42,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 # Data (and ML) Scientists
  - [Aza Kamala](https://twitter.com/AzaKamala)
  - [Abdulbasit Zahir](https://twitter.com/Hamza_X98)
+ - [Dolan](https://twitter.com/dolanskurd)
  - [Ebdulmomen Ahmed](https://twitter.com/Ebdulmomen1)
  - [Keyo Zêbarî](https://twitter.com/KeyoChali)
 
