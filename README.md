@@ -4,34 +4,35 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 
 ## Software Developer
 
-- [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
-- [Ahmed](https://twitter.com/rockweII)
-- [Akam Foad](https://twitter.com/AkamFoad)
-- [Ali A Koye](https://twitter.com/Ali_A_Koye)
-- [Amanj Adnan](https://twitter.com/AmanjGargary)
-- [Ameer Hameed](https://twitter.com/ameermirawdeli)
-- [Aram Malabe](https://twitter.com/aram_malabe)
-- [Aram Rafeq](https://twitter.com/AramRafeq)
-- [Ari Karim](https://twitter.com/Ari_Karim_)
-- [Aza Kamala](https://twitter.com/AzaKamala)
-- [Brusk Awat](https://twitter.com/BruskAwat)
-- [Darvan Shvan](https://twitter.com/DarvanShvan)
-- [Dashty Frya](https://twitter.com/DashtyFrya)
-- [Goran Mustafa](https://twitter.com/Goran__mustafa)
-- [Handren Muhammad](https://twitter.com/Handren96)
-- [Hewr Srood](https://twitter.com/hewr_srood)
-- [Miran K. Sabir](https://twitter.com/mira_01001110)
-- [Muhammad Azeez](https://twitter.com/@mhmd_azeez): ASP.NET Core, C#, DevOps
-- [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
-- [Muhammad Ballak](https://twitter.com/MuhammedBallak)
-- [Rawand Rebwar](https://twitter.com/R4wand)
-- [Shkar Taib](https://twitter.com/Shkarface)
-- [Vazhin Tayeb](https://twitter.com/vazhinn)
-- [Xaliss Pasha](https://twitter.com/XalissPasha)
+ - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
+ - [Ahmed](https://twitter.com/rockweII)
+ - [Akam Foad](https://twitter.com/AkamFoad)
+ - [Ali A Koye](https://twitter.com/Ali_A_Koye)
+ - [Amanj Adnan](https://twitter.com/AmanjGargary)
+ - [Ameer Hameed](https://twitter.com/ameermirawdeli)
+ - [Aram Malabe](https://twitter.com/aram_malabe)
+ - [Aram Rafeq](https://twitter.com/AramRafeq)
+ - [Ari Karim](https://twitter.com/Ari_Karim_)
+ - [Aza Kamala](https://twitter.com/AzaKamala)
+ - [Brusk Awat](https://twitter.com/BruskAwat)
+ - [Darvan Shvan](https://twitter.com/DarvanShvan)
+ - [Dashty Frya](https://twitter.com/DashtyFrya)
+ - [Goran Mustafa](https://twitter.com/Goran__mustafa)
+ - [Handren Muhammad](https://twitter.com/Handren96)
+ - [Hewr Srood](https://twitter.com/hewr_srood)
+ - [Miran K. Sabir](https://twitter.com/mira_01001110)
+ - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): ASP.NET Core, C#, DevOps
+ - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
+ - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
+ - [Rawand Rebwar](https://twitter.com/R4wand)
+ - [Rebin Qadir](https://twitter.com/rebiiin)
+ - [Shkar Taib](https://twitter.com/Shkarface)
+ - [Vazhin Tayeb](https://twitter.com/vazhinn)
+ - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
 ## UI/UX Designer
-
-- [Suvi](https://twitter.com/suuuvi99)
+ - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
+ - [Suvi](https://twitter.com/suuuvi99)
 
 ## Cybersecurity
 
