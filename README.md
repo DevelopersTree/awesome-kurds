@@ -34,6 +34,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 ## UI/UX Designer
 
  - [Ayman Sabri](https://twitter.com/krdayman)
+ - [Hezha Amen](https://twitter.com/hezhamen)
  - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
  - [Suvi](https://twitter.com/suuuvi99)
 
