@@ -30,6 +30,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Suvi](https://twitter.com/suuuvi99)
 
 # Cybersecurity Sepcialists
+- [Adnan Anwar](https://twitter.com/AdanAnwar15)
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 
 # Computer Networks Engineers
@@ -45,6 +46,8 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Dolan](https://twitter.com/dolanskurd)
  - [Ebdulmomen Ahmed](https://twitter.com/Ebdulmomen1)
  - [Keyo Zêbarî](https://twitter.com/KeyoChali)
+ - [Layik Hama](https://twitter.com/layik)
+ - [Sina Ahmadi](https://twitter.com/sina_ahm)
 
 # Product Owners / Program Managers / Requirement Analysts
 - [Rebaz Omer](https://twitter.com/Randoz)
