@@ -62,6 +62,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 - [Keyo Zêbarî](https://twitter.com/KeyoChali)
 - [Layik Hama](https://twitter.com/layik)
 - [Sina Ahmadi](https://twitter.com/sina_ahm)
+- [Diween Hawezy](https://twitter.com/DiweenHawezy)
 
 ## Product Owners
 
