@@ -3,6 +3,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 
 # Software Developers
  - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
+ - [Ahmed](https://twitter.com/rockweII)
  - [Akam Foad](https://twitter.com/AkamFoad)
  - [Ali A Koye](https://twitter.com/Ali_A_Koye)
  - [Amanj Adnan](https://twitter.com/AmanjGargary)
@@ -26,16 +27,17 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
 # UI/UX Designers
+ - [Suvi](https://twitter.com/suuuvi99)
 
 # Cybersecurity Sepcialists
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 
 # Computer Networks Engineers
- - [Samal Samaly](https://twitter.com/Samalsamaly)
+ - [Ahmed Abdullah](https://www.facebook.com/Ahmed.A.Qadir)
+ - [Ahmed Jalal](https://twitter.com/EngAhmedJalal1)
  - [Edris Muhammed](https://twitter.com/Edris__Muhammed)
  - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
- - [Ahmed Jalal](https://twitter.com/EngAhmedJalal1)
- - [Ahmed Abdullah](https://www.facebook.com/Ahmed.A.Qadir)
+ - [Samal Samaly](https://twitter.com/Samalsamaly)
 
 # Data (and ML) Scientists
  - [Aza Kamala](https://twitter.com/AzaKamala)
