@@ -4,6 +4,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 
 ## Software Developer
 
+ - [Ayman Sabri](https://twitter.com/krdayman)
  - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
  - [Ahmed](https://twitter.com/rockweII)
  - [Akam Foad](https://twitter.com/AkamFoad)
@@ -31,11 +32,12 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
 ## UI/UX Designer
+ - [Ayman Sabri](https://twitter.com/krdayman)
  - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
  - [Suvi](https://twitter.com/suuuvi99)
 
 ## Cybersecurity
-
+- [Ayman Sabri](https://twitter.com/krdayman)
 - [Adnan Anwar](https://twitter.com/AdanAnwar15)
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
