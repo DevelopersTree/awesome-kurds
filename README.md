@@ -4,7 +4,6 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 
 ## Software Developer
 
- - [Ayman Sabri](https://twitter.com/krdayman)
  - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
  - [Ahmed](https://twitter.com/rockweII)
  - [Akam Foad](https://twitter.com/AkamFoad)
@@ -14,6 +13,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Aram Malabe](https://twitter.com/aram_malabe)
  - [Aram Rafeq](https://twitter.com/AramRafeq)
  - [Ari Karim](https://twitter.com/Ari_Karim_)
+ - [Ayman Sabri](https://twitter.com/krdayman)
  - [Aza Kamala](https://twitter.com/AzaKamala)
  - [Brusk Awat](https://twitter.com/BruskAwat)
  - [Darvan Shvan](https://twitter.com/DarvanShvan)
@@ -32,13 +32,15 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
 ## UI/UX Designer
+
  - [Ayman Sabri](https://twitter.com/krdayman)
  - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
  - [Suvi](https://twitter.com/suuuvi99)
 
 ## Cybersecurity
-- [Ayman Sabri](https://twitter.com/krdayman)
+
 - [Adnan Anwar](https://twitter.com/AdanAnwar15)
+- [Ayman Sabri](https://twitter.com/krdayman)
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
@@ -62,5 +64,5 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 
 ## Product Owners
 
-- [Rebaz Omer](https://twitter.com/Randoz)
 - [Hakar Saber](https://twitter.com/HakarSaber)
+- [Rebaz Omer](https://twitter.com/Randoz)
