@@ -31,6 +31,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 
 # Cybersecurity Sepcialists
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
+- [Xaliss Pasha](https://twitter.com/XalissPasha)
 
 # Computer Networks Engineers
  - [Ahmed Abdullah](https://www.facebook.com/Ahmed.A.Qadir)
