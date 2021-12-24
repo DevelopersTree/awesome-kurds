@@ -48,7 +48,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
 - [Samal Samaly](https://twitter.com/Samalsamaly)
 
-## Data Scientists
+## Data Scientist
 
 - [Aza Kamala](https://twitter.com/AzaKamala)
 - [Abdulbasit Zahir](https://twitter.com/Hamza_X98)
