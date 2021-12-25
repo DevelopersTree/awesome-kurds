@@ -58,6 +58,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 
 - [Aza Kamala](https://twitter.com/AzaKamala)
 - [Abdulbasit Zahir](https://twitter.com/Hamza_X98)
+- [Diween Hawezy](https://twitter.com/DiweenHawezy)
 - [Dolan](https://twitter.com/dolanskurd)
 - [Ebdulmomen Ahmed](https://twitter.com/Ebdulmomen1)
 - [Keyo Zêbarî](https://twitter.com/KeyoChali)
