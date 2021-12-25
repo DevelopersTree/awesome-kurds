@@ -49,6 +49,7 @@ add other awesome Kurds, including you!
 - [Rawand Kamal](https://github.com/RawandDev)
 - [Rawand Rebwar](https://twitter.com/R4wand)
 - [Rebin Qadir](https://twitter.com/rebiiin)
+- [Roj Serbest](https://github.com/roj1512)
 - [Shakar Bakr](https://twitter.com/shakar__)
 - [Shkar Taib](https://twitter.com/Shkarface)
 - [Vazhin Tayeb](https://twitter.com/vazhinn)
