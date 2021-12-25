@@ -29,7 +29,7 @@ add other awesome Kurds, including you!
 - [Amanj Adnan](https://twitter.com/AmanjGargary)
 - [Ameer Hameed](https://twitter.com/ameermirawdeli)
 - [Aram Malabe](https://twitter.com/aram_malabe)
-- [Aram Rafeq](https://twitter.com/AramRafeq)
+- [Aram Rafeq](https://twitter.com/AramRafeq): Full stack, Node, React, SQL, API, PHP, Java
 - [Ari Karim](https://twitter.com/Ari_Karim_)
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Aza Kamala](https://twitter.com/AzaKamala)
