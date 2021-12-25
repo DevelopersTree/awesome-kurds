@@ -53,6 +53,7 @@ add other awesome Kurds, including you!
 - [Shkar Taib](https://twitter.com/Shkarface)
 - [Vazhin Tayeb](https://twitter.com/vazhinn)
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
+- [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217/)
 
 ## UI/UX
 
