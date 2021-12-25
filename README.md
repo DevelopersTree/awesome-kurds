@@ -25,7 +25,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Goran Mustafa](https://twitter.com/Goran__mustafa)
  - [Handren Muhammad](https://twitter.com/Handren96)
  - [Hewr Srood](https://twitter.com/hewr_srood)
- - [Hezha Amen](https://twitter.com/hezhamen)
+ - [Hezha Amen](https://twitter.com/hezhamen): ReactJS, NodeJS, Dart, JavaScript
  - [Miran K. Sabir](https://twitter.com/mira_01001110)
  - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): ASP.NET Core, C#, DevOps
  - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
