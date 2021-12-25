@@ -15,7 +15,8 @@ add other awesome Kurds, including you!
 - [Cybersecurity](#cybersecurity)
 - [Networking](#networking)
 - [Data Science and AI](#data-science-and-ai)
-- [Product Owners](#product-owners)
+- [Project Management](#project-management)
+- [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
 
 ## Software Development
 
