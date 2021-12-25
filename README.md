@@ -14,7 +14,7 @@ add other awesome Kurds, including you!
 - [UI/UX](#uiux)
 - [Cybersecurity](#cybersecurity)
 - [Networking](#networking)
-- [Data Scientists](#data-scientists)
+- [Data Science and AI](#data-science-and-ai)
 - [Product Owners](#product-owners)
 
 ## Software Development
