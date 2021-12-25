@@ -8,7 +8,7 @@ follow.
 Feel free to follow [the contribution guidelines](.github/CONTRIBUTING.md) to
 add other awesome Kurds, including you!
 
-## Contents
+### Contents
 
 - [Software Development](#software-development)
 - [UI/UX](#uiux)
@@ -75,7 +75,7 @@ add other awesome Kurds, including you!
 - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
 - [Samal Samaly](https://twitter.com/Samalsamaly)
 
-## Data Scientists
+## Data Science and AI
 
 - [Aza Kamala](https://twitter.com/AzaKamala)
 - [Abdulbasit Zahir](https://twitter.com/Hamza_X98)
