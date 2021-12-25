@@ -2,11 +2,11 @@
 
 # Awesome Kurds [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a curated list of awesome Kurds working in the IT industry to meet and follow.
+This is a curated list of awesome Kurds working in the IT industry to meet and
+follow.
 
-
-Feel free to follow [the contribution guidelines](.github/CONTRIBUTING.md) to add other awesome Kurds,
-including you!
+Feel free to follow [the contribution guidelines](.github/CONTRIBUTING.md) to
+add other awesome Kurds, including you!
 
 ## Contents
 
@@ -40,6 +40,7 @@ including you!
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
 - [Handren Muhammad](https://twitter.com/Handren96)
 - [Hewr Srood](https://twitter.com/hewr_srood)
+- [Hezha Amen](https://twitter.com/hezhamen)
 - [Miran K. Sabir](https://twitter.com/mira_01001110)
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): ASP.NET Core, C#, DevOps
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
