@@ -86,10 +86,10 @@ add other awesome Kurds, including you!
 - [Layik Hama](https://twitter.com/layik)
 - [Sina Ahmadi](https://twitter.com/sina_ahm)
 
-## Product Owners
+## Project Management
 
 - [Hakar Saber](https://twitter.com/HakarSaber)
 - [Rebaz Omer](https://twitter.com/Randoz)
 
-## Cloud Architect
+## Cloud Architecture and System Design
 - [Arya Jemo](https://www.aryajemo.com)
