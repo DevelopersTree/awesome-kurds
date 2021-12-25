@@ -6,7 +6,7 @@
 - List items should be in the following format:
 
 ```text
-- [Name](Twitter or GitHub URL): tag1, tag2, tag3
+- [Name](GitHub, Twitter, Behance or Facebook URL): tag1, tag2, tag3
 ```
 
 > Note: The `: tag1, tag2, tag3` part is optional.
