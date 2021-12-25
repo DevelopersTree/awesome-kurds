@@ -32,6 +32,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Rawand Kamal](https://github.com/RawandDev)
  - [Rawand Rebwar](https://twitter.com/R4wand)
  - [Rebin Qadir](https://twitter.com/rebiiin)
+ - [Shakar Bakr](https://twitter.com/shakar__)
  - [Shkar Taib](https://twitter.com/Shkarface)
  - [Vazhin Tayeb](https://twitter.com/vazhinn)
  - [Xaliss Pasha](https://twitter.com/XalissPasha)
