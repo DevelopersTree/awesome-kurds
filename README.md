@@ -90,3 +90,6 @@ add other awesome Kurds, including you!
 
 - [Hakar Saber](https://twitter.com/HakarSaber)
 - [Rebaz Omer](https://twitter.com/Randoz)
+
+## Cloud Architect
+- [Arya Jemo](https://www.aryajemo.com)
