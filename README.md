@@ -2,7 +2,9 @@
 
 # Awesome Kurds [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Kurds working in the IT industry to follow and meet.
+This is a curated list of awesome Kurds working in the IT industry to meet and follow.
+
+
 Feel free to follow [the contribution guidelines]() to add other awesome Kurds,
 including you!
 
