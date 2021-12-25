@@ -17,6 +17,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
  - [Ari Karim](https://twitter.com/Ari_Karim_)
  - [Ayman Sabri](https://twitter.com/krdayman)
  - [Aza Kamala](https://twitter.com/AzaKamala)
+ - [Azher Taimur](https://github.com/woldome)
  - [Bilend Mohammed](https://twitter.com/bilendm)
  - [Brusk Awat](https://twitter.com/BruskAwat)
  - [Darvan Shvan](https://twitter.com/DarvanShvan)
