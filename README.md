@@ -1,8 +1,10 @@
 <!--lint disable awesome-git-repo-age double-link -->
-# Awesome Kurds
+
+# Awesome Kurds [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Kurds working in the IT industry to follow and meet.
-Feel free to follow [the contribution guidelines]() to add other awesome Kurds, including you!
+Feel free to follow [the contribution guidelines]() to add other awesome Kurds,
+including you!
 
 ## Contents
 
