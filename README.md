@@ -41,7 +41,7 @@ add other awesome Kurds, including you!
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
 - [Handren Muhammad](https://twitter.com/Handren96)
 - [Hewr Srood](https://twitter.com/hewr_srood)
-- [Hezha Amen](https://twitter.com/hezhamen): ReactJS, NodeJS, Dart, JavaScript
+- [Hezha Amen](https://twitter.com/hezhamen): React, Node, Dart, JavaScript
 - [Miran K. Sabir](https://twitter.com/mira_01001110)
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
