@@ -1,4 +1,4 @@
-ame: Awesome Lint
+name: Awesome Lint
 on: [pull_request, push]
 jobs:
   awesome-lint:
