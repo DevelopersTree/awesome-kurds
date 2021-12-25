@@ -5,6 +5,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 ## Software Developer
 
  - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
+ - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
  - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
  - [Ahmed](https://twitter.com/rockweII)
  - [Akam Foad](https://twitter.com/AkamFoad)
