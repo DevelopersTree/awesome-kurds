@@ -1,48 +1,59 @@
-# Awesome IT Kurds
+<!--lint disable awesome-git-repo-age double-link -->
+# Awesome Kurds
 
-A list of cool kurds working in the IT industry to follow and meet! The list is in alphabetical order. Feel free to send a PR and add your name!
+A curated list of awesome Kurds working in the IT industry to follow and meet.
+Feel free to follow [the contribution guidelines]() to add other awesome Kurds, including you!
 
-## Software Developer
+## Contents
 
- - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
- - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
- - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
- - [Ahmed](https://twitter.com/rockweII)
- - [Akam Foad](https://twitter.com/AkamFoad)
- - [Ali A Koye](https://twitter.com/Ali_A_Koye)
- - [Amanj Adnan](https://twitter.com/AmanjGargary)
- - [Ameer Hameed](https://twitter.com/ameermirawdeli)
- - [Aram Malabe](https://twitter.com/aram_malabe)
- - [Aram Rafeq](https://twitter.com/AramRafeq)
- - [Ari Karim](https://twitter.com/Ari_Karim_)
- - [Ayman Sabri](https://twitter.com/krdayman)
- - [Aza Kamala](https://twitter.com/AzaKamala)
- - [Azher Taimur](https://twitter.com/Freedom_Coder)
- - [Bilend Mohammed](https://twitter.com/bilendm)
- - [Brusk Awat](https://twitter.com/BruskAwat)
- - [Darvan Shvan](https://twitter.com/DarvanShvan)
- - [Dashty Frya](https://twitter.com/DashtyFrya)
- - [Goran Mustafa](https://twitter.com/Goran__mustafa)
- - [Handren Muhammad](https://twitter.com/Handren96)
- - [Hewr Srood](https://twitter.com/hewr_srood)
- - [Miran K. Sabir](https://twitter.com/mira_01001110)
- - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): ASP.NET Core, C#, DevOps
- - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
- - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
- - [Rawand Kamal](https://github.com/RawandDev)
- - [Rawand Rebwar](https://twitter.com/R4wand)
- - [Rebin Qadir](https://twitter.com/rebiiin)
- - [Shakar Bakr](https://twitter.com/shakar__)
- - [Shkar Taib](https://twitter.com/Shkarface)
- - [Vazhin Tayeb](https://twitter.com/vazhinn)
- - [Xaliss Pasha](https://twitter.com/XalissPasha)
+- [Software Development](#software-development)
+- [UI/UX](#uiux)
+- [Cybersecurity](#cybersecurity)
+- [Networking](#networking)
+- [Data Scientists](#data-scientists)
+- [Product Owners](#product-owners)
 
-## UI/UX Designer
+## Software Development
 
- - [Ayman Sabri](https://twitter.com/krdayman)
- - [Hezha Amen](https://twitter.com/hezhamen)
- - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
- - [Suvi](https://twitter.com/suuuvi99)
+- [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
+- [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
+- [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
+- [Ahmed](https://twitter.com/rockweII)
+- [Akam Foad](https://twitter.com/AkamFoad)
+- [Ali A Koye](https://twitter.com/Ali_A_Koye)
+- [Amanj Adnan](https://twitter.com/AmanjGargary)
+- [Ameer Hameed](https://twitter.com/ameermirawdeli)
+- [Aram Malabe](https://twitter.com/aram_malabe)
+- [Aram Rafeq](https://twitter.com/AramRafeq)
+- [Ari Karim](https://twitter.com/Ari_Karim_)
+- [Ayman Sabri](https://twitter.com/krdayman)
+- [Aza Kamala](https://twitter.com/AzaKamala)
+- [Azher Taimur](https://twitter.com/Freedom_Coder)
+- [Bilend Mohammed](https://twitter.com/bilendm)
+- [Brusk Awat](https://twitter.com/BruskAwat)
+- [Darvan Shvan](https://twitter.com/DarvanShvan)
+- [Dashty Frya](https://twitter.com/DashtyFrya)
+- [Goran Mustafa](https://twitter.com/Goran__mustafa)
+- [Handren Muhammad](https://twitter.com/Handren96)
+- [Hewr Srood](https://twitter.com/hewr_srood)
+- [Miran K. Sabir](https://twitter.com/mira_01001110)
+- [Muhammad Azeez](https://twitter.com/@mhmd_azeez): ASP.NET Core, C#, DevOps
+- [Muhammad Ballak](https://twitter.com/MuhammedBallak)
+- [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
+- [Rawand Kamal](https://github.com/RawandDev)
+- [Rawand Rebwar](https://twitter.com/R4wand)
+- [Rebin Qadir](https://twitter.com/rebiiin)
+- [Shakar Bakr](https://twitter.com/shakar__)
+- [Shkar Taib](https://twitter.com/Shkarface)
+- [Vazhin Tayeb](https://twitter.com/vazhinn)
+- [Xaliss Pasha](https://twitter.com/XalissPasha)
+
+## UI/UX
+
+- [Ayman Sabri](https://twitter.com/krdayman)
+- [Hezha Amen](https://twitter.com/hezhamen)
+- [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
+- [Suvi](https://twitter.com/suuuvi99)
 
 ## Cybersecurity
 
@@ -51,7 +62,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
-## Network
+## Networking
 
 - [Ahmed Abdullah](https://www.facebook.com/Ahmed.A.Qadir)
 - [Ahmed Jalal](https://twitter.com/EngAhmedJalal1)
@@ -59,7 +70,7 @@ A list of cool kurds working in the IT industry to follow and meet! The list is 
 - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
 - [Samal Samaly](https://twitter.com/Samalsamaly)
 
-## Data Scientist
+## Data Scientists
 
 - [Aza Kamala](https://twitter.com/AzaKamala)
 - [Abdulbasit Zahir](https://twitter.com/Hamza_X98)
