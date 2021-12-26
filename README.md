@@ -51,6 +51,7 @@ add other awesome Kurds, including you!
 - [Cali](https://github.com/salimhamad)
 - [Chra Othman](https://github.com/chra-O)
 - [Chenar Farhad](https://github.com/chenar-farhad)
+- [Daban Sadiq](https://twitter.com/DabanSadiq)
 - [Darvan Shvan](https://twitter.com/DarvanShvan)
 - [Dashty Frya](https://twitter.com/DashtyFrya)
 - [Deni Kader](https://github.com/denikader)
