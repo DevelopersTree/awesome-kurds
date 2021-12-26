@@ -77,7 +77,7 @@ add other awesome Kurds, including you!
 - [Rebin Qadir](https://twitter.com/rebiiin)
 - [Rekan Botany](https://github.com/RekarBotany)
 - [Roj Serbest](https://github.com/roj1512): Go, Deno, TypeScript, Telegram
-- [Suvi Shahoyi](https://www.instagram.com/savah.des):(https://twitter.com/suuuvi99): Flutter, Dart, Java, c#, JavaScript, Figma, Adobe Xd
+- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, c#, JavaScript, Figma, Adobe Xd
 - [Sabat](https://github.com/Sabat96)
 - [Shelgir](https://github.com/Shelgir)
 - [Shakar Bakr](https://twitter.com/shakar__)
@@ -95,7 +95,7 @@ add other awesome Kurds, including you!
 
 - [Akar Mohammed](https://github.com/AkarM13)
 - [Ayman Sabri](https://twitter.com/krdayman)
-- [Suvi Shahoyi](https://www.instagram.com/savah.des):(https://twitter.com/suuuvi99): Flutter, Dart, Java, c#, JavaScript, Figma, Adobe Xd
+- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, c#, JavaScript, Figma, Adobe Xd
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
