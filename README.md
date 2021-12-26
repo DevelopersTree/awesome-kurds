@@ -103,6 +103,7 @@ add other awesome Kurds, including you!
 
 - [Adnan Anwar](https://twitter.com/AdanAnwar15)
 - [Ayman Sabri](https://twitter.com/krdayman)
+- [Sharo Karwan](https://www.linkedin.com/in/sharo-karwan-690b0576/): Azure, Kaspersky, Acronis, Barracuda, Palo Alto
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
