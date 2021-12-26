@@ -10,13 +10,13 @@ add other awesome Kurds, including you!
 
 ### Contents
 
-- [Software Development](#software-development)
-- [UI/UX](#uiux)
-- [Cybersecurity](#cybersecurity)
-- [Networking](#networking)
-- [Data Science and AI](#data-science-and-ai)
-- [Project Management](#project-management)
-- [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
++ [Software Development](#software-development)
++ [UI/UX](#uiux)
++ [Cybersecurity](#cybersecurity)
++ [Networking](#networking)
++ [Data Science and AI](#data-science-and-ai)
++ [Project Management](#project-management)
++ [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
 
 ## Software Development
 
