@@ -71,6 +71,7 @@ add other awesome Kurds, including you!
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
+- [Omer Tariq](https://github.com/omer-github93)
 - [Ranj Jalal](https://github.com/RanjDev)
 - [Rawand Kamal](https://github.com/RawandDev): Frontend, React, Next, JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
