@@ -43,6 +43,7 @@ add other awesome Kurds, including you!
 - [Handren Muhammad](https://twitter.com/Handren96)
 - [Hewr Srood](https://twitter.com/hewr_srood)
 - [Hezha Amen](https://twitter.com/hezhamen): React, Node, Dart, JavaScript
+- [Kodo Yousif](https://www.facebook.com/koko.like99): React, Node, Electron, SQL, Mongodb
 - [Miran K. Sabir](https://twitter.com/mira_01001110)
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
@@ -96,4 +97,5 @@ add other awesome Kurds, including you!
 - [Rebaz Omer](https://twitter.com/Randoz)
 
 ## Cloud Architecture and System Design
+
 - [Arya Jemo](https://www.aryajemo.com)
