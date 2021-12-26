@@ -96,6 +96,7 @@ add other awesome Kurds, including you!
 - [Syar](https://github.com/syar1122)
 - [Vazhin Tayeb](https://twitter.com/vazhinn)
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
+- [Yousif Jasm](https://github.com/joseph625)
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217/)
 - [Zhino](https://github.com/zhino97)
 - [Zhir Taha](https://github.com/zhirtaha)
