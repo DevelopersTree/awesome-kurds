@@ -20,7 +20,7 @@ add other awesome Kurds, including you!
 
 ## Software Development
 
-- [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP(Laravel), Node, Api
+- [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP(Laravel), Node, Api, JavaScript(React, Vue)
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
 - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
