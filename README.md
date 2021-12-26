@@ -42,7 +42,7 @@ add other awesome Kurds, including you!
 - [Handren Muhammad](https://twitter.com/Handren96)
 - [Hewr Srood](https://twitter.com/hewr_srood)
 - [Hezha Amen](https://twitter.com/hezhamen): React, Node, Dart, JavaScript
-- [Miran K. Sabir](https://twitter.com/mira_01001110)
+- [Miran K. Sabir](https://twitter.com/mira_01001110): Native Android, Flutter, JavaScript, Kotlin, Dart, Java
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
