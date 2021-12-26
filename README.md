@@ -23,7 +23,7 @@ add other awesome Kurds, including you!
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
 - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
-- [Ahmed](https://twitter.com/rockweII)
+- [Ahmed](https://twitter.com/rockweII_): Ruby, Rails, HOTWire, Elixir, Phoenix, PostgreSQL
 - [Akam Foad](https://twitter.com/AkamFoad)
 - [Ali A Koye](https://twitter.com/Ali_A_Koye)
 - [Amanj Adnan](https://twitter.com/AmanjGargary)
