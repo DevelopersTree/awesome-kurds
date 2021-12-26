@@ -64,6 +64,7 @@ add other awesome Kurds, including you!
 - [Hero Mohammed](https://github.com/herormo)
 - [Hewr Srood](https://twitter.com/hewr_srood)
 - [Hezha Amen](https://twitter.com/hezhamen): React, Node, Dart, JavaScript
+- [Ismail Ahmed](https://github.com/ismail-ahm3d): Native Android, Kotlin, Java
 - [Lawen](https://github.com/lawen-coder)
 - [Lavin Salah](https://github.com/lavin67)
 - [Lhon Rafaat](https://github.com/LhonRafaat)
@@ -104,6 +105,7 @@ add other awesome Kurds, including you!
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
+- [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe XD, Adobe Photoshop, InVision, Figma
 
 
 ## Cybersecurity
