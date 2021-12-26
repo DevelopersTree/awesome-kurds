@@ -1,7 +1,7 @@
 # Contribution Guidelines
 
 - `awesome-lint` should pass.
-- One people per pull request.
+- One person per pull request.
 - The list of people in each section should be sorted alphabetically.
 - List items should be in the following format:
 
