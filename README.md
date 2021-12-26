@@ -61,6 +61,7 @@ add other awesome Kurds, including you!
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
 - [Hama Dler](https://github.com/HamaDler)
 - [Handren Muhammad](https://twitter.com/Handren96)
+- [Hedi M. Sharif](https://github.com/HediMuhamad): ReactJS, Node.js, Javascript, Java
 - [Hema Omer](https://github.com/h3ma209)
 - [Hero Mohammed](https://github.com/herormo)
 - [Hewr Srood](https://twitter.com/hewr_srood)
