@@ -74,6 +74,7 @@ add other awesome Kurds, including you!
 - [Ranj Jalal](https://github.com/RanjDev)
 - [Rawand Kamal](https://github.com/RawandDev): Frontend, React, Next, JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
+- [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySql, Firebase, Postgres
 - [Rebin Qadir](https://twitter.com/rebiiin)
 - [Rekan Botany](https://github.com/RekarBotany)
 - [Roj Serbest](https://github.com/roj1512): Go, Deno, TypeScript, Telegram
