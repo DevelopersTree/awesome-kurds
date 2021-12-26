@@ -25,7 +25,7 @@ add other awesome Kurds, including you!
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
 - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
-- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): Node, API
+- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): Node, API, NoSQL, Flutter
 - [Akam Foad](https://twitter.com/AkamFoad)
 - [Ali A Koye](https://twitter.com/Ali_A_Koye)
 - [Amanj Adnan](https://twitter.com/AmanjGargary)
@@ -74,7 +74,7 @@ add other awesome Kurds, including you!
 
 ## Networking
 
-- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): MikroTik, Network Automation
+- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): MikroTik, Network Automation, Cisco, FortiNet
 - [Ahmed Jalal](https://twitter.com/EngAhmedJalal1)
 - [Edris Muhammed](https://twitter.com/Edris__Muhammed)
 - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
