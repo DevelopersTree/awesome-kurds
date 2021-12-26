@@ -93,6 +93,7 @@ add other awesome Kurds, including you!
 ## UI/UX
 
 - [Akar Mohammed](https://github.com/AkarM13)
+- [Arkan A Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
