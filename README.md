@@ -20,10 +20,11 @@ add other awesome Kurds, including you!
 
 ## Software Development
 
+- [Ahmed](https://twitter.com/rockweII_): Ruby, Rails, HOTWire, Elixir, Phoenix, PostgreSQL
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
 - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
-- [Ahmed](https://twitter.com/rockweII_): Ruby, Rails, HOTWire, Elixir, Phoenix, PostgreSQL
+- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): Node, API
 - [Akam Foad](https://twitter.com/AkamFoad)
 - [Ali A Koye](https://twitter.com/Ali_A_Koye)
 - [Amanj Adnan](https://twitter.com/AmanjGargary)
@@ -72,7 +73,7 @@ add other awesome Kurds, including you!
 
 ## Networking
 
-- [Ahmed Abdullah](https://www.facebook.com/Ahmed.A.Qadir)
+- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): MikroTik, Network Automation
 - [Ahmed Jalal](https://twitter.com/EngAhmedJalal1)
 - [Edris Muhammed](https://twitter.com/Edris__Muhammed)
 - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
