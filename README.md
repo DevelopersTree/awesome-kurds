@@ -75,7 +75,8 @@ add other awesome Kurds, including you!
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
-- [Meer Bahadin](https://github.com/meerbahadin): React, Typescript, Node, Deno, Next.js, SQL, Mongodb
+- [Meer Bahadin](https://github.com/meerbahadin) React, Typescript, Node, Deno, Next.js, SQL, Mongodb
+- [Niyaz Irfan](https://github.com/Niyaz-Dev12): Frontend, React, Node, JavaScript
 - [Omer Tariq](https://github.com/omer-github93)
 - [Ranj Jalal](https://github.com/RanjDev)
 - [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, VueJS, React
@@ -108,7 +109,6 @@ add other awesome Kurds, including you!
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
 - [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe XD, Adobe Photoshop, InVision, Figma
-
 
 ## Cybersecurity
 
