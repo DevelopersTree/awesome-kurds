@@ -55,6 +55,7 @@ add other awesome Kurds, including you!
 - [Deni Kader](https://github.com/denikader)
 - [Dolan](https://twitter.com/dolanskurd)
 - [Dyako Sharifi](https://github.com/syronz)
+- [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/): Android, NestJS, Laravel
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
 - [Hama Dler](https://github.com/HamaDler)
 - [Handren Muhammad](https://twitter.com/Handren96)
@@ -126,6 +127,7 @@ add other awesome Kurds, including you!
 
 ## Project Management
 
+- [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/)
 - [Hakar Saber](https://twitter.com/HakarSaber)
 - [Rebaz Omer](https://twitter.com/Randoz)
 
