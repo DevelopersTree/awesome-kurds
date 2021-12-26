@@ -20,10 +20,11 @@ add other awesome Kurds, including you!
 
 ## Software Development
 
+- [Ahmed](https://twitter.com/rockweII_): Ruby, Rails, HOTWire, Elixir, Phoenix, PostgreSQL
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
 - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
-- [Ahmed](https://twitter.com/rockweII)
+- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): Node, API
 - [Akam Foad](https://twitter.com/AkamFoad)
 - [Ali A Koye](https://twitter.com/Ali_A_Koye)
 - [Amanj Adnan](https://twitter.com/AmanjGargary)
@@ -42,6 +43,7 @@ add other awesome Kurds, including you!
 - [Handren Muhammad](https://twitter.com/Handren96)
 - [Hewr Srood](https://twitter.com/hewr_srood)
 - [Hezha Amen](https://twitter.com/hezhamen): React, Node, Dart, JavaScript
+- [Kodo Yousif](https://www.facebook.com/koko.like99): React, Node, Electron, SQL, Mongodb
 - [Miran K. Sabir](https://twitter.com/mira_01001110): Native Android, Flutter, JavaScript, Kotlin, Dart, Java
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
@@ -72,7 +74,7 @@ add other awesome Kurds, including you!
 
 ## Networking
 
-- [Ahmed Abdullah](https://www.facebook.com/Ahmed.A.Qadir)
+- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): MikroTik, Network Automation
 - [Ahmed Jalal](https://twitter.com/EngAhmedJalal1)
 - [Edris Muhammed](https://twitter.com/Edris__Muhammed)
 - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
@@ -95,4 +97,5 @@ add other awesome Kurds, including you!
 - [Rebaz Omer](https://twitter.com/Randoz)
 
 ## Cloud Architecture and System Design
+
 - [Arya Jemo](https://www.aryajemo.com)
