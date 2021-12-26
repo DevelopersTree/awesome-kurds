@@ -20,11 +20,11 @@ add other awesome Kurds, including you!
 
 ## Software Development
 
+- [Ahmed](https://twitter.com/rockweII_): Ruby, Rails, HOTWire, Elixir, Phoenix, PostgreSQL
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
 - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
 - [Ahmed Abdullah](https://github.com/Ahmad-Qadir): Node, API
-- [Ahmed](https://twitter.com/rockweII)
 - [Akam Foad](https://twitter.com/AkamFoad)
 - [Ali A Koye](https://twitter.com/Ali_A_Koye)
 - [Amanj Adnan](https://twitter.com/AmanjGargary)
