@@ -78,6 +78,7 @@ add other awesome Kurds, including you!
 - [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySql, Firebase, Postgres
 - [Rebin Qadir](https://twitter.com/rebiiin)
 - [Rekan Botany](https://github.com/RekarBotany)
+- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, c#, JavaScript, Figma, Adobe Xd
 - [Sabat](https://github.com/Sabat96)
 - [Shelgir](https://github.com/Shelgir)
 - [Shakar Bakr](https://twitter.com/shakar__)
@@ -96,10 +97,11 @@ add other awesome Kurds, including you!
 - [Akar Mohammed](https://github.com/AkarM13)
 - [Arkan A Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
+- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, c#, JavaScript, Figma, Adobe Xd
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
-- [Suvi](https://twitter.com/suuuvi99)
+
 
 ## Cybersecurity
 
