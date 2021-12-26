@@ -74,6 +74,7 @@ add other awesome Kurds, including you!
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
+- [Meer Bahadin](https://www.meera.dev/) React, Typescript, Node, Deno, Next.js, SQL, Mongodb
 - [Omer Tariq](https://github.com/omer-github93)
 - [Ranj Jalal](https://github.com/RanjDev)
 - [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, VueJS, React
