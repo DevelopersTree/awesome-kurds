@@ -52,6 +52,7 @@ add other awesome Kurds, including you!
 - [Cali](https://github.com/salimhamad)
 - [Chra Othman](https://github.com/chra-O)
 - [Chenar Farhad](https://github.com/chenar-farhad)
+- [Chenar Ismael ](https://github.com/TheChenar)
 - [Daban Sadiq](https://twitter.com/DabanSadiq)
 - [Darvan Shvan](https://twitter.com/DarvanShvan)
 - [Dashty Frya](https://twitter.com/DashtyFrya)
@@ -111,6 +112,7 @@ add other awesome Kurds, including you!
 - [Akar Mohammed](https://github.com/AkarM13)
 - [Arkan A Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
+- [Chenar Ismael ](https://github.com/TheChenar)
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
@@ -123,6 +125,7 @@ add other awesome Kurds, including you!
 
 - [Adnan Anwar](https://twitter.com/AdanAnwar15)
 - [Ayman Sabri](https://twitter.com/krdayman)
+- [Chenar Ismael ](https://github.com/TheChenar)
 - [Sharo Karwan](https://www.linkedin.com/in/sharo-karwan-690b0576/): Azure, Kaspersky, Acronis, Barracuda, Palo Alto
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 - [Wali](https://github.com/kurdi-dev): Forcepoint, Infoblox, Palo Alto, Linux
