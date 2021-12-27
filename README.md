@@ -99,6 +99,7 @@ add other awesome Kurds, including you!
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217/)
 - [Zhino](https://github.com/zhino97)
 - [Zhir Taha](https://github.com/zhirtaha)
+- [Nashwan Abdullah](https://github.com/codenashwan)
 
 ## UI/UX
 
