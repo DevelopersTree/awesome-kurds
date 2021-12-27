@@ -78,11 +78,11 @@ add other awesome Kurds, including you!
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
 - [Meer Bahadin](https://github.com/meerbahadin): React, Typescript, Node, Deno, Next, SQL, Mongodb
 - [Nashwan Abdullah](https://github.com/codenashwan)
-- [Niyaz Irfan](https://github.com/Niyaz-Dev12): Frontend, React, Node, JavaScript
+- [Niyaz Irfan](https://github.com/Niyaz-Dev12): Front-end, React, Node, JavaScript
 - [Omer Tariq](https://github.com/omer-github93)
 - [Ranj Jalal](https://github.com/RanjDev)
 - [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, Vue, React
-- [Rawand Kamal](https://github.com/RawandDev): Frontend, React, Next, JavaScript
+- [Rawand Kamal](https://github.com/RawandDev): Front-end, React, Next, JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
 - [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySQL, Firebase, PostgreSQL
 - [Rebin Qadir](https://twitter.com/rebiiin)
@@ -98,7 +98,7 @@ add other awesome Kurds, including you!
 - [Shoxan Osman](https://github.com/shoxosman)
 - [Syar](https://github.com/syar1122)
 - [Vazhin Tayeb](https://twitter.com/vazhinn)
-- [Wali](https://github.com/kurdi-dev): Next.js, Django, Flutter, Strapi, Express, Codeigniter, Laravel
+- [Wali](https://github.com/kurdi-dev): Next, Django, Flutter, Strapi, Express, CodeIgniter, Laravel
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
 - [Yousif Jasm](https://github.com/joseph625)
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217/)
