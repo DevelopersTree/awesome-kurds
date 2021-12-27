@@ -65,7 +65,6 @@ add other awesome Kurds, including you!
 - [Hedi M. Sharif](https://github.com/HediMuhamad): React, Node, Javascript, Java
 - [Hema Omer](https://github.com/h3ma209)
 - [Hero Mohammed](https://github.com/herormo)
-- [Hozan Saeed](https://github.com/hozan7): React, Node, API
 - [Hewr Srood](https://twitter.com/hewr_srood)
 - [Hezha Amen](https://twitter.com/hezhamen): React, Node, Dart, JavaScript
 - [Ismail Ahmed](https://github.com/ismail-ahm3d): Native Android, Kotlin, Java
@@ -95,6 +94,7 @@ add other awesome Kurds, including you!
 - [Shakar Bakr](https://twitter.com/shakar__)
 - [Shkar Taib](https://twitter.com/Shkarface)
 - [Shabang](https://github.com/shabang99)
+- [Shahab Zebari] (https://www.linkedin.com/in/shahabzebari): Project Manager, Laravel, Server Managment, Agile, Vue, Laravel Ecosystem, etc ...
 - [Shoxan Osman](https://github.com/shoxosman)
 - [Syar](https://github.com/syar1122)
 - [Vazhin Tayeb](https://twitter.com/vazhinn)
