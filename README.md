@@ -110,7 +110,7 @@ add other awesome Kurds, including you!
 - [Akar Mohammed](https://github.com/AkarM13)
 - [Arkan A Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
-- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, c#, JavaScript, Figma, Adobe Xd
+- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
