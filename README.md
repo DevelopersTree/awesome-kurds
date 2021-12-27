@@ -77,6 +77,7 @@ add other awesome Kurds, including you!
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
 - [Meer Bahadin](https://github.com/meerbahadin): React, Typescript, Node, Deno, Next.js, SQL, Mongodb
+- [Nashwan Abdullah](https://github.com/codenashwan)
 - [Niyaz Irfan](https://github.com/Niyaz-Dev12): Frontend, React, Node, JavaScript
 - [Omer Tariq](https://github.com/omer-github93)
 - [Ranj Jalal](https://github.com/RanjDev)
@@ -99,7 +100,7 @@ add other awesome Kurds, including you!
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217/)
 - [Zhino](https://github.com/zhino97)
 - [Zhir Taha](https://github.com/zhirtaha)
-- [Nashwan Abdullah](https://github.com/codenashwan)
+
 
 ## UI/UX
 
