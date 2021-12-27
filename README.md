@@ -58,7 +58,7 @@ add other awesome Kurds, including you!
 - [Deni Kader](https://github.com/denikader)
 - [Dolan](https://twitter.com/dolanskurd)
 - [Dyako Sharifi](https://github.com/syronz)
-- [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/): Android, NestJS, Laravel
+- [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/): Android, Nest, Laravel
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
 - [Hama Dler](https://github.com/HamaDler)
 - [Handren Muhammad](https://twitter.com/Handren96)
@@ -76,7 +76,7 @@ add other awesome Kurds, including you!
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
-- [Meer Bahadin](https://github.com/meerbahadin): React, Typescript, Node, Deno, Next.js, SQL, Mongodb
+- [Meer Bahadin](https://github.com/meerbahadin): React, Typescript, Node, Deno, Next, SQL, Mongodb
 - [Nashwan Abdullah](https://github.com/codenashwan)
 - [Niyaz Irfan](https://github.com/Niyaz-Dev12): Frontend, React, Node, JavaScript
 - [Omer Tariq](https://github.com/omer-github93)
@@ -87,7 +87,7 @@ add other awesome Kurds, including you!
 - [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySQL, Firebase, PostgreSQL
 - [Rebin Qadir](https://twitter.com/rebiiin)
 - [Rekan Botany](https://github.com/RekarBotany)
-- [Revan Sarbast](https://github.com/Revan99): React, Node, SQL, mongodb
+- [Revan Sarbast](https://github.com/Revan99): React, Node, SQL, MongoDB
 - [Roj Serbest](https://github.com/roj1512): Go, Deno, TypeScript, Telegram
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Sabat](https://github.com/Sabat96)
