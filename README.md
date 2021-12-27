@@ -111,6 +111,7 @@ add other awesome Kurds, including you!
 - [Akar Mohammed](https://github.com/AkarM13)
 - [Arkan A Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
+- [Ahmed Safaa](https://www.linkedin.com/in/ahmed1safaa)
 - [Chenar Ismael ](https://github.com/TheChenar)
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Hema Omer](https://github.com/h3ma209)
