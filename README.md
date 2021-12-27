@@ -94,7 +94,7 @@ add other awesome Kurds, including you!
 - [Shakar Bakr](https://twitter.com/shakar__)
 - [Shkar Taib](https://twitter.com/Shkarface)
 - [Shabang](https://github.com/shabang99)
-- [Shahab Zebari] (https://www.linkedin.com/in/shahabzebari): Project Manager, Laravel, Server Managment, Agile, Vue, Laravel Ecosystem, etc ...
+- [Shahab Zebari](https://www.linkedin.com/in/shahabzebari): Laravel, Agile, Vue
 - [Shoxan Osman](https://github.com/shoxosman)
 - [Syar](https://github.com/syar1122)
 - [Vazhin Tayeb](https://twitter.com/vazhinn)
