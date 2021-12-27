@@ -10,13 +10,15 @@ add other awesome Kurds, including you!
 
 ### Contents
 
-+ [Software Development](#software-development)
-+ [UI/UX](#uiux)
-+ [Cybersecurity](#cybersecurity)
-+ [Networking](#networking)
-+ [Data Science and AI](#data-science-and-ai)
-+ [Project Management](#project-management)
-+ [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
+- [Awesome Kurds ![Awesome](https://awesome.re)](#awesome-kurds-)
+- [Contents](#contents)
+- [Software Development](#software-development)
+- [UI/UX](#uiux)
+- [Cybersecurity](#cybersecurity)
+- [Networking](#networking)
+- [Data Science and AI](#data-science-and-ai)
+- [Project Management](#project-management)
+- [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
 
 ## Software Development
 
@@ -56,7 +58,7 @@ add other awesome Kurds, including you!
 - [Darvan Shvan](https://twitter.com/DarvanShvan)
 - [Dashty Frya](https://twitter.com/DashtyFrya)
 - [Deni Kader](https://github.com/denikader)
-- [Dolan](https://twitter.com/dolanskurd)
+- [Dolan](https://twitter.com/dolanskurd): Python, Node, Back-End, JavaScript, TypeScript
 - [Dyako Sharifi](https://github.com/syronz)
 - [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/): Android, Nest, Laravel
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
@@ -106,7 +108,6 @@ add other awesome Kurds, including you!
 - [Zhino](https://github.com/zhino97)
 - [Zhir Taha](https://github.com/zhirtaha)
 
-
 ## UI/UX
 
 - [Akar Mohammed](https://github.com/AkarM13)
@@ -118,6 +119,7 @@ add other awesome Kurds, including you!
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
 - [Wali](https://github.com/kurdi-dev): Adobe Xd, Figma
 - [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
+- [Simin](https://twitter.com/SiminDev): Front-End, React, JavaScript, HTML, CSS, Adobe Photoshop, Figma
 
 ## Cybersecurity
 
@@ -141,7 +143,7 @@ add other awesome Kurds, including you!
 - [Aza Kamala](https://twitter.com/AzaKamala)
 - [Abdulbasit Zahir](https://twitter.com/Hamza_X98)
 - [Diween Hawezy](https://twitter.com/DiweenHawezy)
-- [Dolan](https://twitter.com/dolanskurd)
+- [Dolan](https://twitter.com/dolanskurd): Python
 - [Ebdulmomen Ahmed](https://twitter.com/Ebdulmomen1)
 - [Keyo Zêbarî](https://twitter.com/KeyoChali)
 - [Layik Hama](https://twitter.com/layik)
