@@ -10,13 +10,15 @@ add other awesome Kurds, including you!
 
 ### Contents
 
-- [Software Development](#software-development)
-- [UI/UX](#uiux)
-- [Cybersecurity](#cybersecurity)
-- [Networking](#networking)
-- [Data Science and AI](#data-science-and-ai)
-- [Project Management](#project-management)
-- [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
+- [Awesome Kurds ![Awesome](https://awesome.re)](#awesome-kurds-)
+    - [Contents](#contents)
+  - [Software Development](#software-development)
+  - [UI/UX](#uiux)
+  - [Cybersecurity](#cybersecurity)
+  - [Networking](#networking)
+  - [Data Science and AI](#data-science-and-ai)
+  - [Project Management](#project-management)
+  - [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
 
 ## Software Development
 
@@ -92,6 +94,7 @@ add other awesome Kurds, including you!
 - [Roj Serbest](https://github.com/roj1512): Go, Deno, TypeScript, Telegram
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Sabat](https://github.com/Sabat96)
+- [Shamlo](https://github.com/shammlo): JavaScript, TypeScript, React, Next, Node, Express, MongoDB
 - [Shelgir](https://github.com/Shelgir)
 - [Shakar Bakr](https://twitter.com/shakar__)
 - [Shkar Taib](https://twitter.com/Shkarface)
