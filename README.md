@@ -11,14 +11,14 @@ add other awesome Kurds, including you!
 ### Contents
 
 - [Awesome Kurds ![Awesome](https://awesome.re)](#awesome-kurds-)
-  - [Contents](#contents)
-  - [Software Development](#software-development)
-  - [UI/UX](#uiux)
-  - [Cybersecurity](#cybersecurity)
-  - [Networking](#networking)
-  - [Data Science and AI](#data-science-and-ai)
-  - [Project Management](#project-management)
-  - [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
+- [Contents](#contents)
+- [Software Development](#software-development)
+- [UI/UX](#uiux)
+- [Cybersecurity](#cybersecurity)
+- [Networking](#networking)
+- [Data Science and AI](#data-science-and-ai)
+- [Project Management](#project-management)
+- [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
 
 ## Software Development
 
