@@ -22,7 +22,7 @@ add other awesome Kurds, including you!
 
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node, API, JavaScript, React, Vue
 - [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next, Node, JavaScript, API
-- [Ahmed](https://twitter.com/rockweII_): Ruby, Rails, HOTWire, Elixir, Phoenix, PostgreSQL
+- [Ahmed](https://twitter.com/rockweII_): Ruby, Rails, Hotwire, Elixir, Phoenix, PostgreSQL
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
 - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
@@ -76,7 +76,7 @@ add other awesome Kurds, including you!
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
-- [Meer Bahadin](https://github.com/meerbahadin): React, Typescript, Node, Deno, Next, SQL, Mongodb
+- [Meer Bahadin](https://github.com/meerbahadin): React, Typescript, Node, Deno, Next, SQL, MongoDB
 - [Nashwan Abdullah](https://github.com/codenashwan)
 - [Niyaz Irfan](https://github.com/Niyaz-Dev12): Front-end, React, Node, JavaScript
 - [Omer Tariq](https://github.com/omer-github93)
@@ -115,7 +115,7 @@ add other awesome Kurds, including you!
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
-- [Wali](https://github.com/kurdi-dev): Adobe XD, Figma
+- [Wali](https://github.com/kurdi-dev): Adobe Xd, Figma
 - [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
 
 ## Cybersecurity
