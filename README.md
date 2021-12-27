@@ -91,6 +91,7 @@ add other awesome Kurds, including you!
 - [Revan Sarbast](https://github.com/Revan99): React, Node, SQL, MongoDB
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Sabat](https://github.com/Sabat96)
+- [Shamlo](https://github.com/shammlo): JavaScript, TypeScript, React, Next, Node, Express, MongoDB
 - [Shelgir](https://github.com/Shelgir)
 - [Shakar Bakr](https://twitter.com/shakar__)
 - [Shkar Taib](https://twitter.com/Shkarface)
