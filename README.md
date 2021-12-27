@@ -81,7 +81,7 @@ add other awesome Kurds, including you!
 - [Niyaz Irfan](https://github.com/Niyaz-Dev12): Frontend, React, Node, JavaScript
 - [Omer Tariq](https://github.com/omer-github93)
 - [Ranj Jalal](https://github.com/RanjDev)
-- [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, VueJS, React
+- [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, Vue, React
 - [Rawand Kamal](https://github.com/RawandDev): Frontend, React, Next, JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
 - [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySQL, Firebase, PostgreSQL
