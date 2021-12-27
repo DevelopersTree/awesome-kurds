@@ -21,7 +21,7 @@ add other awesome Kurds, including you!
 ## Software Development
 
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node, API, JavaScript, React, Vue
-- [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next, Node, Javascript, API
+- [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next, Node, JavaScript, API
 - [Ahmed](https://twitter.com/rockweII_): Ruby, Rails, HOTWire, Elixir, Phoenix, PostgreSQL
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
@@ -84,7 +84,7 @@ add other awesome Kurds, including you!
 - [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, VueJS, React
 - [Rawand Kamal](https://github.com/RawandDev): Frontend, React, Next, JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
-- [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySql, Firebase, Postgres
+- [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySQL, Firebase, PostgreSQL
 - [Rebin Qadir](https://twitter.com/rebiiin)
 - [Rekan Botany](https://github.com/RekarBotany)
 - [Revan Sarbast](https://github.com/Revan99): React, Node, SQL, mongodb
