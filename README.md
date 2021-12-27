@@ -89,7 +89,7 @@ add other awesome Kurds, including you!
 - [Rekan Botany](https://github.com/RekarBotany)
 - [Revan Sarbast](https://github.com/Revan99): React, Node, SQL, mongodb
 - [Roj Serbest](https://github.com/roj1512): Go, Deno, TypeScript, Telegram
-- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, c#, JavaScript, Figma, Adobe Xd
+- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Sabat](https://github.com/Sabat96)
 - [Shelgir](https://github.com/Shelgir)
 - [Shakar Bakr](https://twitter.com/shakar__)
