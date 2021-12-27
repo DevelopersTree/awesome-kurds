@@ -37,7 +37,7 @@ add other awesome Kurds, including you!
 - [Ameer Hameed](https://twitter.com/ameermirawdeli)
 - [Ara Arsalan](https://github.com/YouCanCallMeAra)
 - [Aram Malabe](https://twitter.com/aram_malabe)
-- [Aram Rafeq](https://twitter.com/AramRafeq): Full stack, Node, React, SQL, API, PHP, Java
+- [Aram Rafeq](https://twitter.com/AramRafeq): Full-stack, Node, React, SQL, API, PHP, Java
 - [Aram Younis](https://github.com/aramyunis)
 - [Aran Fatih](https://github.com/aranfatih)
 - [Areyan](https://github.com/KUMachine)
@@ -107,13 +107,13 @@ add other awesome Kurds, including you!
 ## UI/UX
 
 - [Akar Mohammed](https://github.com/AkarM13)
-- [Arkan A Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
+- [Arkan A Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, c#, JavaScript, Figma, Adobe Xd
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
-- [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe XD, Adobe Photoshop, InVision, Figma
+- [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
 
 ## Cybersecurity
 
