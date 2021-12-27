@@ -98,6 +98,7 @@ add other awesome Kurds, including you!
 - [Shoxan Osman](https://github.com/shoxosman)
 - [Syar](https://github.com/syar1122)
 - [Vazhin Tayeb](https://twitter.com/vazhinn)
+- [Wali](https://github.com/kurdi-dev): Next.js, Django, Flutter, Strapi, Express, Codeigniter, Laravel
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
 - [Yousif Jasm](https://github.com/joseph625)
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217/)
@@ -114,6 +115,7 @@ add other awesome Kurds, including you!
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
+- [Wali](https://github.com/kurdi-dev): Adobe XD, Figma, User-centered Design
 - [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
 
 ## Cybersecurity
@@ -122,6 +124,7 @@ add other awesome Kurds, including you!
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Sharo Karwan](https://www.linkedin.com/in/sharo-karwan-690b0576/): Azure, Kaspersky, Acronis, Barracuda, Palo Alto
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
+- [Wali](https://github.com/kurdi-dev): Forcepoint, Infoblox, Palo Alto, Linux, Virtualization
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
 ## Networking
