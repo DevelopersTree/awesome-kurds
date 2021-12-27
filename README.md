@@ -67,12 +67,12 @@ add other awesome Kurds, including you!
 - [Hero Mohammed](https://github.com/herormo)
 - [Hewr Srood](https://twitter.com/hewr_srood)
 - [Hezha Amen](https://twitter.com/hezhamen): React, Node, Dart, JavaScript
-- [Ismail Ahmed](https://github.com/ismail-ahm3d): Native Android, Kotlin, Java
+- [Ismail Ahmed](https://github.com/ismail-ahm3d): Android, Kotlin, Java
 - [Lawen](https://github.com/lawen-coder)
 - [Lavin Salah](https://github.com/lavin67)
 - [Lhon Rafaat](https://github.com/LhonRafaat)
 - [Kodo Yousif](https://twitter.com/kodo_koye): React, Node, Electron, SQL, Mongodb
-- [Miran K. Sabir](https://twitter.com/mira_01001110): Native Android, Flutter, JavaScript, Kotlin, Dart, Java
+- [Miran K. Sabir](https://twitter.com/mira_01001110): Android, Flutter, JavaScript, Kotlin, Dart, Java
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
