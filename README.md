@@ -21,7 +21,7 @@ add other awesome Kurds, including you!
 ## Software Development
 
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node, API, JavaScript, React, Vue
-- [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next, Node, Javascript, API
+- [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next, Node, JavaScript, API
 - [Ahmed](https://twitter.com/rockweII_): Ruby, Rails, HOTWire, Elixir, Phoenix, PostgreSQL
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
@@ -37,7 +37,7 @@ add other awesome Kurds, including you!
 - [Ameer Hameed](https://twitter.com/ameermirawdeli)
 - [Ara Arsalan](https://github.com/YouCanCallMeAra)
 - [Aram Malabe](https://twitter.com/aram_malabe)
-- [Aram Rafeq](https://twitter.com/AramRafeq): Full stack, Node, React, SQL, API, PHP, Java
+- [Aram Rafeq](https://twitter.com/AramRafeq): Full-stack, Node, React, SQL, API, PHP, Java
 - [Aram Younis](https://github.com/aramyunis)
 - [Aran Fatih](https://github.com/aranfatih)
 - [Areyan](https://github.com/KUMachine)
@@ -58,11 +58,11 @@ add other awesome Kurds, including you!
 - [Deni Kader](https://github.com/denikader)
 - [Dolan](https://twitter.com/dolanskurd)
 - [Dyako Sharifi](https://github.com/syronz)
-- [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/): Android, NestJS, Laravel
+- [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/): Android, Nest, Laravel
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
 - [Hama Dler](https://github.com/HamaDler)
 - [Handren Muhammad](https://twitter.com/Handren96)
-- [Hedi M. Sharif](https://github.com/HediMuhamad): ReactJS, Node.js, Javascript, Java
+- [Hedi M. Sharif](https://github.com/HediMuhamad): React, Node, Javascript, Java
 - [Hema Omer](https://github.com/h3ma209)
 - [Hero Mohammed](https://github.com/herormo)
 - [Hewr Srood](https://twitter.com/hewr_srood)
@@ -76,19 +76,19 @@ add other awesome Kurds, including you!
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
-- [Meer Bahadin](https://github.com/meerbahadin): React, Typescript, Node, Deno, Next.js, SQL, Mongodb
+- [Meer Bahadin](https://github.com/meerbahadin): React, Typescript, Node, Deno, Next, SQL, Mongodb
 - [Nashwan Abdullah](https://github.com/codenashwan)
 - [Niyaz Irfan](https://github.com/Niyaz-Dev12): Frontend, React, Node, JavaScript
 - [Omer Tariq](https://github.com/omer-github93)
 - [Ranj Jalal](https://github.com/RanjDev)
-- [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, VueJS, React
+- [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, Vue, React
 - [Rawand Kamal](https://github.com/RawandDev): Frontend, React, Next, JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
-- [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySql, Firebase, Postgres
+- [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySQL, Firebase, PostgreSQL
 - [Rebin Qadir](https://twitter.com/rebiiin)
 - [Rekan Botany](https://github.com/RekarBotany)
-- [Revan Sarbast](https://github.com/Revan99):React, Node, SQL, mongodb
-- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, c#, JavaScript, Figma, Adobe Xd
+- [Revan Sarbast](https://github.com/Revan99): React, Node, SQL, MongoDB
+- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Sabat](https://github.com/Sabat96)
 - [Shelgir](https://github.com/Shelgir)
 - [Shakar Bakr](https://twitter.com/shakar__)
@@ -107,13 +107,13 @@ add other awesome Kurds, including you!
 ## UI/UX
 
 - [Akar Mohammed](https://github.com/AkarM13)
-- [Arkan A Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe XD, Figma
+- [Arkan A Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
-- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, c#, JavaScript, Figma, Adobe Xd
+- [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
-- [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe XD, Adobe Photoshop, InVision, Figma
+- [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
 
 ## Cybersecurity
 
@@ -146,7 +146,7 @@ add other awesome Kurds, including you!
 
 - [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/)
 - [Hakar Saber](https://twitter.com/HakarSaber)
-- [Rawaz Salih](https://www.linkedin.com/in/rawazsalih/): Agile, Scrum, Product Management
+- [Rawaz Salih](https://www.linkedin.com/in/rawazsalih/): Agile, Scrum
 - [Rebaz Omer](https://twitter.com/Randoz)
 
 ## Cloud Architecture and System Design
