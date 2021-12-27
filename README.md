@@ -115,7 +115,7 @@ add other awesome Kurds, including you!
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
-- [Wali](https://github.com/kurdi-dev): Adobe XD, Figma, User-centered Design
+- [Wali](https://github.com/kurdi-dev): Adobe XD, Figma
 - [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
 
 ## Cybersecurity
@@ -124,12 +124,12 @@ add other awesome Kurds, including you!
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Sharo Karwan](https://www.linkedin.com/in/sharo-karwan-690b0576/): Azure, Kaspersky, Acronis, Barracuda, Palo Alto
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
-- [Wali](https://github.com/kurdi-dev): Forcepoint, Infoblox, Palo Alto, Linux, Virtualization
+- [Wali](https://github.com/kurdi-dev): Forcepoint, Infoblox, Palo Alto, Linux
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
 
 ## Networking
 
-- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): MikroTik, Network Automation, Cisco, FortiNet
+- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): MikroTik, Cisco, FortiNet
 - [Ahmed Jalal](https://twitter.com/EngAhmedJalal1)
 - [Edris Muhammed](https://twitter.com/Edris__Muhammed)
 - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
