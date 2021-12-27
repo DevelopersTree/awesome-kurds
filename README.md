@@ -146,7 +146,7 @@ add other awesome Kurds, including you!
 
 - [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/)
 - [Hakar Saber](https://twitter.com/HakarSaber)
-- [Rawaz Salih](https://www.linkedin.com/in/rawazsalih/): Agile, Scrum, Product Management
+- [Rawaz Salih](https://www.linkedin.com/in/rawazsalih/): Agile, Scrum
 - [Rebaz Omer](https://twitter.com/Randoz)
 
 ## Cloud Architecture and System Design
