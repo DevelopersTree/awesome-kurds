@@ -30,7 +30,7 @@ add other awesome Kurds, including you!
 - [Ahmad Soran](https://github.com/ahmadsoran)
 - [Ahmad Saeed](https://github.com/AhmadSaeed96)
 - [Akam Foad](https://twitter.com/AkamFoad): React, Node, API, TypeScript, Full-stack, Web
-- [Akar Mohammed](https://github.com/AkarM13)
+- [Akar Mohammed](https://github.com/AkarM13): JavaScript, Node, React, TailwindCSS, NestJS, MongoDB
 - [Alan Hilal](https://github.com/AlanHilal)
 - [Ali A Koye](https://twitter.com/Ali_A_Koye)
 - [Amanj Adnan](https://twitter.com/AmanjGargary): Ruby, Ruby on Rails, PostgreSQL
@@ -115,7 +115,7 @@ add other awesome Kurds, including you!
 
 ## UI/UX
 
-- [Akar Mohammed](https://github.com/AkarM13)
+- [Akar Mohammed](https://github.com/AkarM13): Adobe XD, Figma
 - [Arkan A Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Ahmed Safaa](https://www.linkedin.com/in/ahmed1safaa)
