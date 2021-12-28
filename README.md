@@ -33,7 +33,7 @@ add other awesome Kurds, including you!
 - [Akar Mohammed](https://github.com/AkarM13)
 - [Alan Hilal](https://github.com/AlanHilal)
 - [Ali A Koye](https://twitter.com/Ali_A_Koye)
-- [Amanj Adnan](https://twitter.com/AmanjGargary)
+- [Amanj Adnan](https://twitter.com/AmanjGargary): Ruby, Ruby on Rails, PostgreSQL
 - [Ameer Hameed](https://twitter.com/ameermirawdeli)
 - [Ara Arsalan](https://github.com/YouCanCallMeAra)
 - [Aram Malabe](https://twitter.com/aram_malabe)
