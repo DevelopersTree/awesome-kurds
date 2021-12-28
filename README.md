@@ -74,7 +74,7 @@ add other awesome Kurds, including you!
 - [Lhon Rafaat](https://github.com/LhonRafaat)
 - [Kodo Yousif](https://twitter.com/kodo_koye): React, Node, Electron, SQL, MongoDB
 - [Miran K. Sabir](https://twitter.com/mira_01001110): Android, Flutter, JavaScript, Kotlin, Dart, Java
-- [Mohammed Hussein](https://github.com/TheKurdishProgrammer): Back-end, ASP.NET Core, C#, Database, Flutter, Android, Java
+- [Mohammed Hussein](https://github.com/TheKurdishProgrammer): Back-end, .NET, C#, Database, Flutter, Android, Java
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
