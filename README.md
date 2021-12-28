@@ -42,6 +42,7 @@ add other awesome Kurds, including you!
 - [Aran Fatih](https://github.com/aranfatih)
 - [Areyan](https://github.com/KUMachine)
 - [Ari Karim](https://twitter.com/Ari_Karim_)
+- [Arin Faraj](https://twitter.com/ArinFaraj)
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Aza Kamala](https://twitter.com/AzaKamala)
 - [Azher Taimur](https://twitter.com/Freedom_Coder)
