@@ -163,3 +163,6 @@ add other awesome Kurds, including you!
 ## Cloud Architecture and System Design
 
 - [Arya Jemo](https://www.aryajemo.com)
+
+## Devops
+[Barez Azad](https://www.linkedin.com/in/barez-azad1/): Linux, Docker, CI/CD, Golang, Angular, C#(WPF)
