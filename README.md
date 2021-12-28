@@ -57,7 +57,7 @@ add other awesome Kurds, including you!
 - [Darvan Shvan](https://twitter.com/DarvanShvan)
 - [Dashty Frya](https://twitter.com/DashtyFrya)
 - [Deni Kader](https://github.com/denikader)
-- [Dolan](https://twitter.com/dolanskurd): Python, Node, Back-End, JavaScript, TypeScript
+- [Dolan](https://twitter.com/dolanskurd): Python, Node, Back-end, JavaScript, TypeScript
 - [Dyako Sharifi](https://github.com/syronz)
 - [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/): Android, Nest, Laravel
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
@@ -72,9 +72,9 @@ add other awesome Kurds, including you!
 - [Lawen](https://github.com/lawen-coder)
 - [Lavin Salah](https://github.com/lavin67)
 - [Lhon Rafaat](https://github.com/LhonRafaat)
-- [Kodo Yousif](https://twitter.com/kodo_koye): React, Node, Electron, SQL, Mongodb
+- [Kodo Yousif](https://twitter.com/kodo_koye): React, Node, Electron, SQL, MongoDB
 - [Miran K. Sabir](https://twitter.com/mira_01001110): Android, Flutter, JavaScript, Kotlin, Dart, Java
-- [Mohammed Hussein](https://github.com/TheKurdishProgrammer): Backend, ASP.NET Core, C#, Database, Flutter, Android, Java
+- [Mohammed Hussein](https://github.com/TheKurdishProgrammer): Back-end, ASP.NET Core, C#, Database, Flutter, Android, Java
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
@@ -121,13 +121,13 @@ add other awesome Kurds, including you!
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
 - [Wali](https://github.com/kurdi-dev): Adobe Xd, Figma
 - [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
-- [Simin](https://twitter.com/SiminDev): Front-End, React, JavaScript, HTML, CSS, Adobe Photoshop, Figma
+- [Simin](https://twitter.com/SiminDev): Front-end, React, JavaScript, HTML, CSS, Adobe Photoshop, Figma
 
 ## Cybersecurity
 
 - [Adnan Anwar](https://twitter.com/AdanAnwar15)
 - [Ayman Sabri](https://twitter.com/krdayman)
-- [Chenar Ismael ](https://github.com/TheChenar)
+- [Chenar Ismael](https://github.com/TheChenar)
 - [Sharo Karwan](https://www.linkedin.com/in/sharo-karwan-690b0576/): Azure, Kaspersky, Acronis, Barracuda, Palo Alto
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 - [Wali](https://github.com/kurdi-dev): Forcepoint, Infoblox, Palo Alto, Linux
