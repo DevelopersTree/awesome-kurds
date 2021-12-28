@@ -30,7 +30,7 @@ add other awesome Kurds, including you!
 - [Ahmad Soran](https://github.com/ahmadsoran)
 - [Ahmad Saeed](https://github.com/AhmadSaeed96)
 - [Akam Foad](https://twitter.com/AkamFoad): React, Node, API, TypeScript, Full-stack, Web
-- [Akar Mohammed](https://github.com/AkarM13): JavaScript, Node, React, TailwindCSS, NestJS, MongoDB
+- [Akar Mohammed](https://github.com/AkarM13): JavaScript, Node, React, Tailwind, Nest, MongoDB
 - [Alan Hilal](https://github.com/AlanHilal)
 - [Ali A Koye](https://twitter.com/Ali_A_Koye)
 - [Amanj Adnan](https://twitter.com/AmanjGargary): Ruby, Ruby on Rails, PostgreSQL
