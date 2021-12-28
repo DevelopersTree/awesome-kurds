@@ -91,7 +91,7 @@ add other awesome Kurds, including you!
 - [Rawand Rebwar](https://twitter.com/R4wand)
 - [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySQL, Firebase, PostgreSQL
 - [Rebin Qadir](https://twitter.com/rebiiin)
-- [Rekan Botany](https://github.com/RekarBotany)
+- [Rekar Botany](https://github.com/RekarBotany)
 - [Revan Sarbast](https://github.com/Revan99): React, Node, SQL, MongoDB
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Sabat](https://github.com/Sabat96)
