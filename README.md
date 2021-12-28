@@ -46,6 +46,7 @@ add other awesome Kurds, including you!
 - [Aza Kamala](https://twitter.com/AzaKamala)
 - [Azher Taimur](https://twitter.com/Freedom_Coder)
 - [Azhi Osman](https://github.com/Azhi-Othman)
+- [Barez Azad](https://www.linkedin.com/in/barez-azad1/): Linux, Docker, CI/CD, Go, Angular, C#
 - [Bilend Mohammed](https://twitter.com/bilendm)
 - [Binar](https://github.com/binar1)
 - [Brusk Awat](https://twitter.com/BruskAwat)
