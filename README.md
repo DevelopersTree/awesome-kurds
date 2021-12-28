@@ -60,7 +60,7 @@ add other awesome Kurds, including you!
 - [Deni Kader](https://github.com/denikader)
 - [Dolan](https://twitter.com/dolanskurd): Python, Node, Back-end, JavaScript, TypeScript
 - [Dyako Sharifi](https://github.com/syronz)
-- [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/): Android, Nest, Laravel
+- [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh): Android, Nest, Laravel
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
 - [Hama Dler](https://github.com/HamaDler)
 - [Handren Muhammad](https://twitter.com/Handren96)
@@ -106,7 +106,7 @@ add other awesome Kurds, including you!
 - [Wali](https://github.com/kurdi-dev): Next, Django, Flutter, Strapi, Express, CodeIgniter, Laravel
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
 - [Yousif Jasm](https://github.com/joseph625)
-- [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217/)
+- [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217)
 - [Zhino](https://github.com/zhino97)
 - [Zhir Taha](https://github.com/zhirtaha)
 
@@ -122,7 +122,7 @@ add other awesome Kurds, including you!
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
 - [Wali](https://github.com/kurdi-dev): Adobe Xd, Figma
-- [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev/): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
+- [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
 - [Simin](https://twitter.com/SiminDev): Front-end, React, JavaScript, HTML, CSS, Adobe Photoshop, Figma
 
 ## Cybersecurity
@@ -130,7 +130,7 @@ add other awesome Kurds, including you!
 - [Adnan Anwar](https://twitter.com/AdanAnwar15)
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Chenar Ismael](https://github.com/TheChenar)
-- [Sharo Karwan](https://www.linkedin.com/in/sharo-karwan-690b0576/): Azure, Kaspersky, Acronis, Barracuda, Palo Alto
+- [Sharo Karwan](https://www.linkedin.com/in/sharo-karwan-690b0576): Azure, Kaspersky, Acronis, Barracuda, Palo Alto
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 - [Wali](https://github.com/kurdi-dev): Forcepoint, Infoblox, Palo Alto, Linux
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
@@ -156,9 +156,9 @@ add other awesome Kurds, including you!
 
 ## Project Management
 
-- [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh/)
+- [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh)
 - [Hakar Saber](https://twitter.com/HakarSaber)
-- [Rawaz Salih](https://www.linkedin.com/in/rawazsalih/): Agile, Scrum
+- [Rawaz Salih](https://www.linkedin.com/in/rawazsalih): Agile, Scrum
 - [Rebaz Omer](https://twitter.com/Randoz)
 
 ## Cloud Architecture and System Design
