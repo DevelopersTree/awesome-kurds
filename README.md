@@ -164,5 +164,5 @@ add other awesome Kurds, including you!
 
 - [Arya Jemo](https://www.aryajemo.com)
 
-## Devops
+## DevOps
 [Barez Azad](https://www.linkedin.com/in/barez-azad1/): Linux, Docker, CI/CD, Golang, Angular, C#(WPF)
