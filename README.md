@@ -43,6 +43,7 @@ add other awesome Kurds, including you!
 - [Areyan](https://github.com/KUMachine)
 - [Ari Karim](https://twitter.com/Ari_Karim_)
 - [Arin Faraj](https://twitter.com/ArinFaraj)
+- [Aro Dana](https://github.com/arokurd)
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Ayub Abdullah](https://github.com/ayubabdullah): Node, Express, Nest, API, JavaScript, React, MySQL, MongoDB
 - [Aza Kamala](https://twitter.com/AzaKamala)
