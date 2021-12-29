@@ -73,6 +73,7 @@ add other awesome Kurds, including you!
 - [Hero Mohammed](https://github.com/herormo)
 - [Hewr Srood](https://twitter.com/hewr_srood)
 - [Hezha Amen](https://twitter.com/hezhamen): React, Node, Dart, JavaScript
+- [Hozan Saeed](https://github.com/hozan7): Node, React, API
 - [Ismail Ahmed](https://github.com/ismail-ahm3d): Android, Kotlin, Java
 - [Lawen](https://github.com/lawen-coder)
 - [Lavin Salah](https://github.com/lavin67)
