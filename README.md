@@ -64,7 +64,7 @@ add other awesome Kurds, including you!
 - [Deni Kader](https://github.com/denikader)
 - [Dolan](https://twitter.com/dolanskurd): Python, Node, Back-end, JavaScript, TypeScript
 - [Dyako Sharifi](https://github.com/syronz)
-- [Dyary Raoof Bayz](https://github.com/DyaryRaoof): Full Stack Dev, Mobile Dev, JavaScript, ReactJs, Ruby, Ruby on Rails, Node Js, Flutter
+- [Dyary Raoof](https://github.com/DyaryRaoof): Full-stack, JavaScript, React, Ruby, Rails, Node, Flutter
 - [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh): Android, Nest, Laravel
 - [Gashbin Kanaby](https://github.com/gashben)
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
