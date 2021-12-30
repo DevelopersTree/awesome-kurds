@@ -65,6 +65,7 @@ add other awesome Kurds, including you!
 - [Dolan](https://twitter.com/dolanskurd): Python, Node, Back-end, JavaScript, TypeScript
 - [Dyako Sharifi](https://github.com/syronz)
 - [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh): Android, Nest, Laravel
+- [Gashbin Kanaby](https://github.com/gashben)
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
 - [Hama Dler](https://github.com/HamaDler)
 - [Handren Muhammad](https://twitter.com/Handren96)
