@@ -151,6 +151,7 @@ add other awesome Kurds, including you!
 - [Edris Muhammed](https://twitter.com/Edris__Muhammed)
 - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
 - [Samal Samaly](https://twitter.com/Samalsamaly)
+- [Muhammmed Burhan](https://github.com/Muhammed-Burhan)
 
 ## Data Science and AI
 
