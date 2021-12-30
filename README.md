@@ -171,3 +171,7 @@ add other awesome Kurds, including you!
 ## Cloud Architecture and System Design
 
 - [Arya Jemo](https://www.aryajemo.com)
+
+## Graphic Designers
+
+- Be the first to join!
