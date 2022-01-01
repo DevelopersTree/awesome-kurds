@@ -93,6 +93,7 @@ add other awesome Kurds, including you!
 - [Niyaz Irfan](https://github.com/Niyaz-Dev12): Front-end, React, Node, JavaScript
 - [Omer Tariq](https://github.com/omer-github93)
 - [Ranj Jalal](https://github.com/RanjDev)
+- [Perwiz Kazemi](https://www.linkedin.com/in/parviz-kazemi-8987b170/): Nestjs, Mongodb, Postgresql, Docker
 - [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, Vue, React
 - [Rawand Kamal](https://github.com/RawandDev): Front-end, React, Next, JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
@@ -129,6 +130,7 @@ add other awesome Kurds, including you!
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Hema Omer](https://github.com/h3ma209)
 - [Hezha Amen](https://twitter.com/hezhamen)
+- [Hemn Ahmadi Kanigulzar](https://github.com/kanigulzar): Adobe XD, Figma
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
 - [Wali](https://github.com/kurdi-dev): Adobe Xd, Figma
 - [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
