@@ -151,6 +151,7 @@ add other awesome Kurds, including you!
 - [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
 - [Samal Samaly](https://twitter.com/Samalsamaly)
 - [Muhammmed Burhan](https://github.com/Muhammed-Burhan)
+- [Muhamad Tariq](https://twitter.com/muhamadtariq01)
 
 ## Data Science and AI
 
