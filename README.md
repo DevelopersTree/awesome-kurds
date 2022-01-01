@@ -92,7 +92,7 @@ add other awesome Kurds, including you!
 - [Nashwan Abdullah](https://github.com/codenashwan)
 - [Niyaz Irfan](https://github.com/Niyaz-Dev12): Front-end, React, Node, JavaScript
 - [Omer Tariq](https://github.com/omer-github93)
-- [Perwiz Kazemi](https://www.linkedin.com/in/parviz-kazemi-8987b170/): Nestjs, Mongodb, PostgreSQL, Elasticsearch, Redis, Docker
+- [Perwiz Kazemi](https://www.linkedin.com/in/parviz-kazemi-8987b170/): Nest, MongoDB, PostgreSQL, Elasticsearch, Redis, Docker
 - [Ranj Jalal](https://github.com/RanjDev)
 - [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, Vue, React
 - [Rawand Kamal](https://github.com/RawandDev): Front-end, React, Next, JavaScript
