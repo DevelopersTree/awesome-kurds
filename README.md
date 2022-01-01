@@ -148,10 +148,10 @@ add other awesome Kurds, including you!
 - [Ahmed Abdullah](https://github.com/Ahmad-Qadir): MikroTik, Cisco, FortiNet
 - [Ahmed Jalal](https://twitter.com/EngAhmedJalal1)
 - [Edris Muhammed](https://twitter.com/Edris__Muhammed)
-- [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
-- [Samal Samaly](https://twitter.com/Samalsamaly)
 - [Muhammmed Burhan](https://github.com/Muhammed-Burhan)
 - [Muhamad Tariq](https://twitter.com/muhamadtariq01)
+- [Othman A. Abdullah](https://twitter.com/Othman_Mzori)
+- [Samal Samaly](https://twitter.com/Samalsamaly)
 
 ## Data Science and AI
 
