@@ -123,6 +123,7 @@ add other awesome Kurds, including you!
 ## UI/UX
 
 - [Akar Mohammed](https://github.com/AkarM13): Adobe XD, Figma
+- [Sarok Ali](https://www.behance.net/sarokali): Figma, Adobe XS, Adobe Photoshop, Adobe Illustrator, InVision
 - [Arkan A. Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Ahmed Safaa](https://www.linkedin.com/in/ahmed1safaa)
