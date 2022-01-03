@@ -60,7 +60,7 @@ add other awesome Kurds, including you!
 - [Chenar Ismael ](https://github.com/TheChenar)
 - [Daban Sadiq](https://twitter.com/DabanSadiq)
 - [Darvan Shvan](https://twitter.com/DarvanShvan)
-- [Dashty Frya](https://twitter.com/DashtyFrya)
+- [Dashty Frya](https://twitter.com/DashtyFrya): React, Next, Vue, JavaScript, Laravel, Figma
 - [Deni Kader](https://github.com/denikader)
 - [Dolan](https://twitter.com/dolanskurd): Python, Node, Back-end, JavaScript, TypeScript
 - [Dyako Sharifi](https://github.com/syronz)
