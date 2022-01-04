@@ -17,7 +17,6 @@ add other awesome Kurds, including you!
 - [Data Science and AI](#data-science-and-ai)
 - [Project Management](#project-management)
 - [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
-- [IT Management](#it-management)
 
 ## Software Development
 
@@ -105,6 +104,7 @@ add other awesome Kurds, including you!
 - [Roj Serbest](https://github.com/roj1512): Go, Deno, TypeScript, Telegram
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Sabat](https://github.com/Sabat96)
+- [Samrand Haji](https://linkedin.com/in/samrand96)
 - [Shamlo](https://github.com/shammlo): JavaScript, TypeScript, React, Next, Node, Express, MongoDB
 - [Shelgir](https://github.com/Shelgir)
 - [Shakar Bakr](https://twitter.com/shakar__)
@@ -178,10 +178,7 @@ add other awesome Kurds, including you!
 ## Cloud Architecture and System Design
 
 - [Arya Jemo](https://www.aryajemo.com)
-
-## IT Management
-
-- [Samrand Haji](https://linkedin.com/in/samrand96): Managing in Enterprise level of IT Operations and Projects, former; Software Developer, Cybersecurity Analyst, Cloud Architect.
+- [Samrand Haji](https://linkedin.com/in/samrand96)
 
 ## Graphic Designers
 
