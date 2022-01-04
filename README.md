@@ -104,6 +104,7 @@ add other awesome Kurds, including you!
 - [Roj Serbest](https://github.com/roj1512): Go, Deno, TypeScript, Telegram
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Sabat](https://github.com/Sabat96)
+- [Samrand Haji](https://github.com/samrandhaji)
 - [Shamlo](https://github.com/shammlo): JavaScript, TypeScript, React, Next, Node, Express, MongoDB
 - [Shelgir](https://github.com/Shelgir)
 - [Shakar Bakr](https://twitter.com/shakar__)
@@ -178,6 +179,7 @@ add other awesome Kurds, including you!
 ## Cloud Architecture and System Design
 
 - [Arya Jemo](https://www.aryajemo.com)
+- [Samrand Haji](https://linkedin.com/in/samrand96)
 
 ## Graphic Designers
 
