@@ -132,9 +132,10 @@ add other awesome Kurds, including you!
 - [Hemn Ahmedi Kanigulzar](https://github.com/kanigulzar): Adobe Xd, Figma
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
+- [Sarok Ali](https://www.behance.net/sarokali): Figma, Adobe XS, Adobe Photoshop, Adobe Illustrator, InVision
+- [Simin](https://twitter.com/SiminDev): Front-end, React, JavaScript, HTML, CSS, Adobe Photoshop, Figma
 - [Wali](https://github.com/kurdi-dev): Adobe Xd, Figma
 - [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
-- [Simin](https://twitter.com/SiminDev): Front-end, React, JavaScript, HTML, CSS, Adobe Photoshop, Figma
 
 ## Cybersecurity
 
