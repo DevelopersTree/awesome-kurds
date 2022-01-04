@@ -17,6 +17,7 @@ add other awesome Kurds, including you!
 - [Data Science and AI](#data-science-and-ai)
 - [Project Management](#project-management)
 - [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
+- [IT Management](#it-management)
 
 ## Software Development
 
@@ -177,6 +178,10 @@ add other awesome Kurds, including you!
 ## Cloud Architecture and System Design
 
 - [Arya Jemo](https://www.aryajemo.com)
+
+## IT Management
+
+- [Samrand Haji](https://linkedin.com/in/samrand96): Managing in Enterprise level of IT Operations and Projects, former; Software Developer, Cybersecurity Analyst, Cloud Architect.
 
 ## Graphic Designers
 
