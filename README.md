@@ -143,7 +143,7 @@ add other awesome Kurds, including you!
 - [Adnan Anwar](https://twitter.com/AdanAnwar15)
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Chenar Ismael](https://github.com/TheChenar)
-- [Dlshad Othman](https://www.linkedin.com/in/dlshadothman/): Lead security engineer (Threat intelligence) at AWS
+- [Dlshad Othman](https://www.linkedin.com/in/dlshadothman/)
 - [Sharo Karwan](https://www.linkedin.com/in/sharo-karwan-690b0576): Azure, Kaspersky, Acronis, Barracuda, Palo Alto
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
 - [Wali](https://github.com/kurdi-dev): Forcepoint, Infoblox, Palo Alto, Linux
