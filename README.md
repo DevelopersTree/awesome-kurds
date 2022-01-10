@@ -106,6 +106,7 @@ add other awesome Kurds, including you!
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Sabat](https://github.com/Sabat96)
 - [Samrand Haji](https://github.com/samrandhaji)
+- [Sirwan Azad](https://github.com/sirwanazad): java, Spring Boot, Oracle, Tomcat
 - [Shamlo](https://github.com/shammlo): JavaScript, TypeScript, React, Next, Node, Express, MongoDB
 - [Shelgir](https://github.com/Shelgir)
 - [Shakar Bakr](https://twitter.com/shakar__)
