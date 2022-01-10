@@ -71,7 +71,7 @@ add other awesome Kurds, including you!
 - [Hama Dler](https://github.com/HamaDler)
 - [Handren Muhammad](https://twitter.com/Handren96)
 - [Haryad Rahim](https://github.com/hariiad)
-- [Hedi M. Sharif](https://github.com/HediMuhamad): React, Node, Javascript, Java
+- [Hedi M. Sharif](https://github.com/HediMuhamad): React, Node, JavaScript, Java
 - [Hema Omer](https://github.com/h3ma209)
 - [Hero Mohammed](https://github.com/herormo)
 - [Hewr Srood](https://twitter.com/hewr_srood)
@@ -89,7 +89,7 @@ add other awesome Kurds, including you!
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
 - [Muhammed Khalil](https://github.com/hamakh11): Full-stack, PHP, Laravel, SQL, Vue, Flutter
-- [Meer Bahadin](https://github.com/meerbahadin): React, Typescript, Node, Deno, Next, SQL, MongoDB
+- [Meer Bahadin](https://github.com/meerbahadin): React, TypeScript, Node, Deno, Next, SQL, MongoDB
 - [Nashwan Abdullah](https://github.com/codenashwan)
 - [Niyaz Irfan](https://github.com/Niyaz-Dev12): Front-end, React, Node, JavaScript
 - [Omer Tariq](https://github.com/omer-github93)
