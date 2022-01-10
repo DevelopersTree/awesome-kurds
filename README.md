@@ -124,7 +124,7 @@ add other awesome Kurds, including you!
 
 ## UI/UX
 
-- [Akar Mohammed](https://github.com/AkarM13): Adobe XD, Figma
+- [Akar Mohammed](https://github.com/AkarM13): Adobe Xd, Figma
 - [Arkan A. Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Ahmed Safaa](https://www.linkedin.com/in/ahmed1safaa)
@@ -134,7 +134,7 @@ add other awesome Kurds, including you!
 - [Hemn Ahmedi Kanigulzar](https://github.com/kanigulzar): Adobe Xd, Figma
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
-- [Muhammed Khalil](https://github.com/hamakh11): Adobe XD, Figma, Balsamiq Mockups
+- [Muhammed Khalil](https://github.com/hamakh11): Adobe Xd, Figma, Balsamiq Mockups
 - [Sarok Ali](https://www.behance.net/sarokali): Figma, Adobe XS, Adobe Photoshop, Adobe Illustrator, InVision
 - [Simin](https://twitter.com/SiminDev): Front-end, React, JavaScript, HTML, CSS, Adobe Photoshop, Figma
 - [Wali](https://github.com/kurdi-dev): Adobe Xd, Figma
