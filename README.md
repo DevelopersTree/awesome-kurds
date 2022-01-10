@@ -88,6 +88,7 @@ add other awesome Kurds, including you!
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
+- [Muhammed Khalil](https://github.com/hamakh11): Full-stack, PHP, Laravel, SQL, Vue, Flutter
 - [Meer Bahadin](https://github.com/meerbahadin): React, Typescript, Node, Deno, Next, SQL, MongoDB
 - [Nashwan Abdullah](https://github.com/codenashwan)
 - [Niyaz Irfan](https://github.com/Niyaz-Dev12): Front-end, React, Node, JavaScript
@@ -132,6 +133,7 @@ add other awesome Kurds, including you!
 - [Hemn Ahmedi Kanigulzar](https://github.com/kanigulzar): Adobe Xd, Figma
 - [Hezha Amen](https://twitter.com/hezhamen)
 - [Muhammed K. Sabir](https://behance.net/mohamadkamal8)
+- [Muhammed Khalil](https://github.com/hamakh11): Adobe XD, Figma, Balsamiq Mockups
 - [Sarok Ali](https://www.behance.net/sarokali): Figma, Adobe XS, Adobe Photoshop, Adobe Illustrator, InVision
 - [Simin](https://twitter.com/SiminDev): Front-end, React, JavaScript, HTML, CSS, Adobe Photoshop, Figma
 - [Wali](https://github.com/kurdi-dev): Adobe Xd, Figma
