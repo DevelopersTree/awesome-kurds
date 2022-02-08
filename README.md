@@ -20,6 +20,7 @@ add other awesome Kurds, including you!
 
 ## Software Development
 
+- [Ahmed Jasim](https://github.com/itsahmedjasim): Typescript, Python, Angular, Nuxt, React, Vue
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node, API, JavaScript, React, Vue
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
 - [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next, Node, JavaScript, API
