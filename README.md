@@ -24,6 +24,7 @@ add other awesome Kurds, including you!
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
 - [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next, Node, JavaScript, API
 - [Ahmed](https://twitter.com/rockweII_): Ruby, Rails, Hotwire, Elixir, Phoenix, PostgreSQL
+- [Ahmed Jasim](https://github.com/itsahmedjasim): TypeScript, Python, Angular, Nuxt, React, Vue
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
 - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
