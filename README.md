@@ -114,6 +114,7 @@ add other awesome Kurds, including you!
 - [Shkar Taib](https://twitter.com/Shkarface)
 - [Shabang](https://github.com/shabang99)
 - [Shahab Zebari](https://www.linkedin.com/in/shahabzebari): Laravel, Agile, Vue
+- [Shad Abdalla](https://facebook.com/shad.cs): Laravel, PHP, SQL
 - [Shoxan Osman](https://github.com/shoxosman)
 - [Syar](https://github.com/syar1122)
 - [Vazhin Tayeb](https://twitter.com/vazhinn)
