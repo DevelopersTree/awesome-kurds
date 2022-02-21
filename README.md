@@ -5,7 +5,7 @@
 This is a curated list of awesome Kurds working in the IT industry to meet and
 follow.
 
-Feel free to follow [the contribution guidelines](.github/CONTRIBUTING.md) to
+Feel free to follow the [Contribution Guidelines](.github/CONTRIBUTING.md) to
 add other awesome Kurds, including you!
 
 ### Contents
