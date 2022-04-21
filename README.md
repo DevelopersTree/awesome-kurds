@@ -97,6 +97,7 @@ add other awesome Kurds, including you!
 - [Omer Tariq](https://github.com/omer-github93)
 - [Perwiz Kazemi](https://www.linkedin.com/in/parviz-kazemi-8987b170/): Nest, MongoDB, PostgreSQL, Elasticsearch, Redis, Docker
 - [Ranj Jalal](https://github.com/RanjDev): React, Next, Tailwind, Node, Express, MongoDB, TypeScript
+- [Rasty Azad](https://github.com/RastyIT97): SASS, Vue, PHP, Laravel, SQL
 - [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, Vue, React
 - [Rawand Kamal](https://github.com/RawandDev): Front-end, React, Next, JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
