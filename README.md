@@ -20,7 +20,7 @@ add other awesome Kurds, including you!
 
 ## Software Development
 
-- [Pshtiwan Mahmood](https://github.com/drpshtiwan): PHP, Laravel, Symfony, Wordpress Developer, NodeJs, GraphQL, REST API, Vue, React Native, Flutter 
+- [Pshtiwan Mahmood](https://github.com/drpshtiwan): PHP, Laravel, Symfony, Wordpress, Node, GraphQL, API, Vue, React Native, Flutter 
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node, API, JavaScript, React, Vue
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
 - [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next, Node, JavaScript, API
