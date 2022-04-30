@@ -47,6 +47,7 @@ add other awesome Kurds, including you!
 - [Ari Karim](https://twitter.com/Ari_Karim_)
 - [Arin Faraj](https://twitter.com/ArinFaraj)
 - [Aro Dana](https://github.com/arokurd)
+- [Aryan Karim](https://github.com/aryankarim): TypeScript, Next.js, React.js, Node.js, MongoDb, SQL, Linux
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Ayub Abdullah](https://github.com/ayubabdullah): Node, Express, Nest, API, JavaScript, React, MySQL, MongoDB
 - [Aza Kamala](https://twitter.com/AzaKamala)
