@@ -20,6 +20,9 @@ add other awesome Kurds, including you!
 
 ## Software Development
 
+- [Omer Hamza Omer](https://github.com/omer-hanaraey): PHP, Laravel, JavaScript, API, Vue, SQL, Linux
+- [Akar Ako Qadr](https://github.com/akarako): PHP, Laravel, API, SQL, Front-End Web Developer, Bootstrap, WordPress, Database Administrator
+- [Raman Zana Khidhir](https://github.com/RamanZana): PHP, Laravel, MySQL, MSSQL, Amazon Aurora, Bootstrap, JQuery, VueJs, AWS, RHEL, Cloudflare
 - [Pshtiwan Mahmood](https://github.com/drpshtiwan): PHP, Laravel, Symfony, Wordpress, Node, GraphQL, API, Vue, React Native, Flutter 
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node, API, JavaScript, React, Vue
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
