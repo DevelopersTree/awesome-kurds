@@ -20,7 +20,6 @@ add other awesome Kurds, including you!
 
 ## Software Development
 
-- [Pshtiwan Mahmood](https://github.com/drpshtiwan): PHP, Laravel, Symfony, Wordpress, Node, GraphQL, API, Vue, React Native, Flutter 
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node, API, JavaScript, React, Vue
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
 - [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next, Node, JavaScript, API
@@ -34,6 +33,7 @@ add other awesome Kurds, including you!
 - [Ahmad Saeed](https://github.com/AhmadSaeed96)
 - [Akam Foad](https://twitter.com/AkamFoad): React, Node, API, TypeScript, Full-stack, Web
 - [Akar Mohammed](https://github.com/AkarM13): JavaScript, Node, React, Tailwind, Nest, MongoDB
+- [Akar Ako Qadr](https://github.com/akarako): PHP, Laravel, API, SQL, Front-end, Bootstrap, Wordpress, Database
 - [Alan Hilal](https://github.com/AlanHilal)
 - [Ali A. Koye](https://twitter.com/Ali_A_Koye)
 - [Amanj Adnan](https://twitter.com/AmanjGargary): Ruby, Rails, PostgreSQL
@@ -97,12 +97,15 @@ add other awesome Kurds, including you!
 - [Nashwan Abdullah](https://github.com/codenashwan)
 - [Niyaz Irfan](https://github.com/Niyaz-Dev12): Front-end, React, Node, JavaScript
 - [Omer Tariq](https://github.com/omer-github93)
+- [Omer Hamza Omer](https://github.com/omer-hanaraey): PHP, Laravel, JavaScript, API, Vue, SQL, Linux
 - [Perwiz Kazemi](https://www.linkedin.com/in/parviz-kazemi-8987b170/): Nest, MongoDB, PostgreSQL, Elasticsearch, Redis, Docker
 - [Ranj Jalal](https://github.com/RanjDev): React, Next, Tailwind, Node, Express, MongoDB, TypeScript
+- [Pshtiwan Mahmood](https://github.com/drpshtiwan): PHP, Laravel, Symfony, Wordpress, Node, GraphQL, API, Vue, React Native, Flutter
 - [Rasty Azad](https://github.com/RastyIT97): SASS, Vue, PHP, Laravel, SQL
 - [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, Vue, React
 - [Rawand Kamal](https://github.com/RawandDev): Front-end, React, Next, JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
+- [Raman Zana Khidhir](https://github.com/RamanZana): PHP, Laravel, MySQL, MSSQL, Amazon Aurora, Bootstrap, jQuery, Vue, AWS, RHEL, Cloudflare
 - [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySQL, Firebase, PostgreSQL
 - [Rebin Qadir](https://twitter.com/rebiiin)
 - [Rekar Botany](https://github.com/RekarBotany)
