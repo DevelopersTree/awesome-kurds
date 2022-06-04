@@ -53,6 +53,7 @@ add other awesome Kurds, including you!
 - [Aza Kamala](https://twitter.com/AzaKamala)
 - [Azher Taimur](https://twitter.com/Freedom_Coder)
 - [Azhi Osman](https://github.com/Azhi-Othman)
+- [Amirhossein Khosravi](https://github.com/amirkho-py): Full-stack, Python, Django, NoSQL, Flutter
 - [Barez Azad](https://github.com/barezazad): Linux, Docker, CI/CD, Go, Angular, C#
 - [Bilend Mohammed](https://twitter.com/bilendm)
 - [Binar](https://github.com/binar1)
