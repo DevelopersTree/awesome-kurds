@@ -36,8 +36,10 @@ add other awesome Kurds, including you!
 - [Akar Mohammed](https://github.com/AkarM13): JavaScript, Node, React, Tailwind, Nest, MongoDB
 - [Alan Hilal](https://github.com/AlanHilal)
 - [Ali A. Koye](https://twitter.com/Ali_A_Koye)
+- [Ali Mustafa](https://github.com/Ali11Mustafa)
 - [Amanj Adnan](https://twitter.com/AmanjGargary): Ruby, Rails, PostgreSQL
 - [Ameer Hameed](https://twitter.com/ameermirawdeli)
+- [Amirhossein Khosravi](https://github.com/amirkho-py): Full-stack, Python, Django, NoSQL, Flutter
 - [Ara Arsalan](https://github.com/YouCanCallMeAra)
 - [Aram Malabe](https://twitter.com/aram_malabe)
 - [Aram Rafeq](https://twitter.com/AramRafeq): Full-stack, Node, React, SQL, API, PHP, Java
@@ -54,9 +56,7 @@ add other awesome Kurds, including you!
 - [Aza Kamala](https://twitter.com/AzaKamala)
 - [Azher Taimur](https://twitter.com/Freedom_Coder)
 - [Azhi Osman](https://github.com/Azhi-Othman)
-- [Amirhossein Khosravi](https://github.com/amirkho-py): Full-stack, Python, Django, NoSQL, Flutter
-- [Ali Mustafa](https://github.com/Ali11Mustafa)
-- [Barez Azad](https://github.com/barezazad): Full-stack, Go, Angular , Linux, Docker, CI/CD
+- [Barez Azad](https://github.com/barezazad): Full-stack, Go, Angular, Linux, Docker, CI/CD
 - [Bilend Mohammed](https://twitter.com/bilendm)
 - [Binar](https://github.com/binar1)
 - [Brusk Awat](https://twitter.com/BruskAwat)
@@ -90,10 +90,10 @@ add other awesome Kurds, including you!
 - [Lawen](https://github.com/lawen-coder)
 - [Lhon Rafaat](https://github.com/LhonRafaat)
 - [Mahamad Esmail](https://github.com/mahamaad)
-- [Mohammed Bakr](https://github.com/mahammadbakr): Flutter, JavaScript, Node, Express, React, Next
 - [Makwan Barzan](https://twitter.com/makwanbk): Swift, Objective-C, C++, Ruby
 - [Meer Bahadin](https://github.com/meerbahadin): React, TypeScript, Node, Deno, Next, SQL, MongoDB
 - [Miran K. Sabir](https://twitter.com/mira_01001110): Android, Flutter, JavaScript, Kotlin, Dart, Java
+- [Mohammed Bakr](https://github.com/mahammadbakr): Flutter, JavaScript, Node, Express, React, Next
 - [Mohammed Hussein](https://github.com/TheKurdishProgrammer): Back-end, .NET, C#, Database, Flutter, Android, Java
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
