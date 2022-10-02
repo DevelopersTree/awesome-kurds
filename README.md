@@ -41,7 +41,7 @@ add other awesome Kurds, including you!
 - [Ara Arsalan](https://github.com/YouCanCallMeAra)
 - [Aram Malabe](https://twitter.com/aram_malabe)
 - [Aram Rafeq](https://twitter.com/AramRafeq): Full-stack, Node, React, SQL, API, PHP, Java
-- [Aram Younis](https://github.com/aramyunis)
+- [Aram Younis](https://github.com/aramyounis)
 - [Aran Fatih](https://github.com/aranfatih)
 - [Areyan](https://github.com/KUMachine)
 - [Ari Karim](https://twitter.com/Ari_Karim_)
