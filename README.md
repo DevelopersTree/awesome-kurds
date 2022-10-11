@@ -165,6 +165,7 @@ add other awesome Kurds, including you!
 - [Sharo Karwan](https://www.linkedin.com/in/sharo-karwan-690b0576): Azure, Kaspersky, Acronis, Barracuda, Palo Alto
 - [Wali](https://github.com/kurdi-dev): Forcepoint, Infoblox, Palo Alto, Linux
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
+- [Ahmed Kameran](https://twitter.com/hamoshwani)
 
 ## Networking
 
