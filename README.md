@@ -157,6 +157,7 @@ add other awesome Kurds, including you!
 ## Cybersecurity
 
 - [Adnan Anwar](https://twitter.com/AdanAnwar15)
+- [Ahmed Kameran](https://twitter.com/hamoshwani)
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Chenar Ismael](https://github.com/TheChenar)
 - [Dlshad Othman](https://www.linkedin.com/in/dlshadothman/)
