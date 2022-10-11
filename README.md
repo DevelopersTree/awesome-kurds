@@ -158,6 +158,7 @@ add other awesome Kurds, including you!
 ## Cybersecurity
 
 - [Adnan Anwar](https://twitter.com/AdanAnwar15)
+- [Ahmed Kameran](https://twitter.com/hamoshwani)
 - [Ayman Sabri](https://twitter.com/krdayman)
 - [Chenar Ismael](https://github.com/TheChenar)
 - [Dlshad Othman](https://www.linkedin.com/in/dlshadothman/)
@@ -165,7 +166,6 @@ add other awesome Kurds, including you!
 - [Sharo Karwan](https://www.linkedin.com/in/sharo-karwan-690b0576): Azure, Kaspersky, Acronis, Barracuda, Palo Alto
 - [Wali](https://github.com/kurdi-dev): Forcepoint, Infoblox, Palo Alto, Linux
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
-- [Ahmed Kameran](https://twitter.com/hamoshwani)
 
 ## Networking
 
