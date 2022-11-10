@@ -91,6 +91,7 @@ add other awesome Kurds, including you!
 - [Lhon Rafaat](https://github.com/LhonRafaat)
 - [Mahamad Esmail](https://github.com/mahamaad)
 - [Makwan Barzan](https://twitter.com/makwanbk): Swift, Objective-C, C++, Ruby
+- [Mabast O. Hamadamin](https://github.com/mabastu): Swift
 - [Meer Bahadin](https://github.com/meerbahadin): React, TypeScript, Node, Deno, Next, SQL, MongoDB
 - [Miran K. Sabir](https://twitter.com/mira_01001110): Android, Flutter, JavaScript, Kotlin, Dart, Java
 - [Mohammed Bakr](https://github.com/mahammadbakr): Flutter, JavaScript, Node, Express, React, Next
