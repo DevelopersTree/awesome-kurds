@@ -112,7 +112,7 @@ add other awesome Kurds, including you!
 - [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, Vue, React
 - [Rawand Kamal](https://github.com/RawandDev): Front-end, React, Next, JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
-- [Rawezh Fakhraden](https://github.com/rawezhit): Dart, Flutter, Java, MySQL, Firebase, Php, Laravel, Livewire
+- [Rawezh Fakhraden](https://github.com/rawezhit): Dart, Flutter, Java, MySQL, Firebase, PHP, Laravel, Livewire
 - [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySQL, Firebase, PostgreSQL
 - [Rebin Qadir](https://twitter.com/rebiiin)
 - [Rekar Botany](https://github.com/RekarBotany)
