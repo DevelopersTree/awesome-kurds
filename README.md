@@ -138,6 +138,7 @@ add other awesome Kurds, including you!
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217)
 - [Zhino](https://github.com/zhino97)
 - [Zhir Taha](https://github.com/zhirtaha)
+- [Mohammad Hassan](https://mohammadhassan.me): Flutter, Dart, JavaScript, React, Node, Express, MongoDB, CSS, HTML
 
 ## UI/UX
 
