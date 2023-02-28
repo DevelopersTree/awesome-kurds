@@ -21,6 +21,7 @@ add other awesome Kurds, including you!
 ## Software Development
 
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node, API, JavaScript, React, Vue
+- [Abdulbari Qaisar](https://twitter.com/B4ryy): JavaScript, React, Next
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
 - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
