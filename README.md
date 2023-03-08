@@ -125,6 +125,7 @@ add other awesome Kurds, including you!
 - [Shad Abdalla](https://facebook.com/shad.cs): Laravel, PHP, SQL
 - [Shahab Zebari](https://www.linkedin.com/in/shahabzebari): Laravel, Agile, Vue
 - [Shakar Bakr](https://twitter.com/shakar__)
+- [Shakar Kosar](https://www.linkedin.com/in/shakar-kosar-44612b199/)
 - [Shamlo](https://github.com/shammlo): JavaScript, TypeScript, React, Next, Node, Express, MongoDB
 - [Shelgir](https://github.com/Shelgir)
 - [Shkar Taib](https://twitter.com/Shkarface)
