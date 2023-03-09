@@ -102,6 +102,7 @@ add other awesome Kurds, including you!
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
 - [Muhammed Khalil](https://github.com/hamakh11): Full-stack, PHP, Laravel, SQL, Vue, Flutter
+- [Muhammed Amin](https://github.com/H7mosh): Flutter, .NET, HTML, CSS
 - [Nashwan Abdullah](https://github.com/codenashwan)
 - [Niyaz Irfan](https://github.com/Niyaz-Dev12): Front-end, React, Node, JavaScript
 - [Omer Hamza Omer](https://github.com/omer-hanaraey): PHP, Laravel, JavaScript, API, Vue, SQL, Linux
