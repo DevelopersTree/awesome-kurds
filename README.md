@@ -194,6 +194,7 @@ add other awesome Kurds, including you!
 - [Layik Hama](https://twitter.com/layik)
 - [Polla Fattah](https://polla-fattah.github.io/)
 - [Sina Ahmadi](https://twitter.com/sina_ahm)
+- [Sako Ranj](https://twitter.com/SakoRanj)
 
 ## Project Management
 
