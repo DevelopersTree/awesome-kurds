@@ -121,7 +121,7 @@ add other awesome Kurds, including you!
 - [Rekar Botany](https://github.com/RekarBotany)
 - [Revan Sarbast](https://github.com/Revan99): React, Node, SQL, MongoDB
 - [Sabat](https://github.com/Sabat96)
-- [Samrand Haji](https://github.com/samrandhaji)
+- [Samrand Hassan](https://github.com/samrandhaji)
 - [Shabang](https://github.com/shabang99)
 - [Shad Abdalla](https://facebook.com/shad.cs): Laravel, PHP, SQL
 - [Shahab Zebari](https://www.linkedin.com/in/shahabzebari): Laravel, Agile, Vue
@@ -207,7 +207,7 @@ add other awesome Kurds, including you!
 ## Cloud Architecture and System Design
 
 - [Arya Jemo](https://www.aryajemo.com)
-- [Samrand Haji](https://linkedin.com/in/samrand96)
+- [Samrand Hassan](https://linkedin.com/in/samrand96)
 
 ## Graphic Designers
 
