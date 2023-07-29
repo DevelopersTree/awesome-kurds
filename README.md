@@ -147,6 +147,7 @@ add other awesome Kurds, including you!
 
 ## UI/UX
 
+- [Abdullah](https://twitter.com/abdullahQomer)
 - [Ahmed Safaa](https://www.linkedin.com/in/ahmed1safaa)
 - [Akar Mohammed](https://github.com/AkarM13): Adobe Xd, Figma
 - [Arkan A. Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
