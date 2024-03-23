@@ -90,7 +90,7 @@ add other awesome Kurds, including you!
 - [Kodo Yousif](https://twitter.com/kodo_koye): React, Node, Electron, SQL, MongoDB
 - [Lavin Salah](https://github.com/lavin67)
 - [Lawen](https://github.com/lawen-coder)
-- [Levende Mohammad](https://portfolio.levende.org): Full-stack, React, NextJS, Vue, Typescript, Javascript, Node
+- [Levende Mohammad](https://github.com/Lawndlwd): Full-stack, React, NextJS, Vue, Typescript, Javascript, Node
 - [Lhon Rafaat](https://github.com/LhonRafaat)
 - [Mahamad Esmail](https://github.com/mahamaad)
 - [Makwan Barzan](https://twitter.com/makwanbk): Swift, Objective-C, C++, Ruby
