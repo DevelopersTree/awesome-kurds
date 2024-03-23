@@ -90,6 +90,7 @@ add other awesome Kurds, including you!
 - [Kodo Yousif](https://twitter.com/kodo_koye): React, Node, Electron, SQL, MongoDB
 - [Lavin Salah](https://github.com/lavin67)
 - [Lawen](https://github.com/lawen-coder)
+- [Levende Mohammad](https://portfolio.levende.org): Full-stack, React, NextJS, Vue, Typescript, Javascript, Node
 - [Lhon Rafaat](https://github.com/LhonRafaat)
 - [Mahamad Esmail](https://github.com/mahamaad)
 - [Makwan Barzan](https://twitter.com/makwanbk): Swift, Objective-C, C++, Ruby
@@ -141,7 +142,7 @@ add other awesome Kurds, including you!
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217)
 - [Zhir Taha](https://github.com/zhirtaha)
 - [Mohammad Hassan](https://mohammadhassan.me): Flutter, Dart, JavaScript, React, Node, Express, MongoDB, CSS, HTML
-- [Yaqub Naqib](https://github.com/Yaqub-naqeb): JavaScript, React, Next, Java, PHP 
+- [Yaqub Naqib](https://github.com/Yaqub-naqeb): JavaScript, React, Next, Java, PHP
 - [Yusif Qasim](https://github.com/YusifQasim): JavaScript, React, Next
 
 ## UI/UX
