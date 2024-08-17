@@ -122,6 +122,7 @@ add other awesome Kurds, including you!
 - [Rekar Botany](https://github.com/RekarBotany)
 - [Revan Sarbast](https://github.com/Revan99): React, Node, SQL, MongoDB
 - [Rasool Ghorbani](https://github.com/rasool-ghorbani): .NET, MS SQL, PostgreSQL, Redis, Elk, RabbitMQ
+- [Shadyar Bzhar Othman](https://github.com/Shadyar-Bzhar-Othman): Full-stack, PHP, Laravel, Javascript, Vue, Dart, Flutter, C#, Tailwind, MySQL, API
 - [Sabat](https://github.com/Sabat96)
 - [Samrand Hassan](https://github.com/samrandhaji)
 - [Shabang](https://github.com/shabang99)
