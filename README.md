@@ -216,7 +216,7 @@ add other awesome Kurds, including you!
 
 ## Quality Assurance
 
-- [Muzaffer Dler]([https://www.aryajemo.com](https://www.linkedin.com/in/muzaffer-dler-rashad/)) Robot Framework, Python, End-To-End Testing, User Expirence
+- [Muzaffer Dler](https://github.com/jellywiz): Robot Framework, Python, End-To-End Testing, User Expirence
 
 ## Graphic Designers
 
