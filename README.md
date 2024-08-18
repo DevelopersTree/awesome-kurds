@@ -17,7 +17,7 @@ add other awesome Kurds, including you!
 - [Data Science and AI](#data-science-and-ai)
 - [Project Management](#project-management)
 - [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
-- [Quality Assurance](#quality-assurance)
+- [Graphic Designers](#graphic-designers)
 
 ## Software Development
 
@@ -144,6 +144,7 @@ add other awesome Kurds, including you!
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217)
 - [Zhir Taha](https://github.com/zhirtaha)
 - [Mohammad Hassan](https://mohammadhassan.me): Flutter, Dart, JavaScript, React, Node, Express, MongoDB, CSS, HTML
+- [Muzaffer Dler](https://github.com/jellywiz): QA, Robot Framework, Python, E2E Testing, User Experience
 - [Yaqub Naqib](https://github.com/Yaqub-naqeb): JavaScript, React, Next, Java, PHP
 - [Yusif Qasim](https://github.com/YusifQasim): JavaScript, React, Next
 
@@ -214,11 +215,6 @@ add other awesome Kurds, including you!
 - [Arya Jemo](https://www.aryajemo.com)
 - [Samrand Hassan](https://linkedin.com/in/samrand96)
 
-## Quality Assurance
-
-- [Muzaffer Dler](https://github.com/jellywiz): Robot Framework, Python, End-To-End Testing, User Expirence
-
 ## Graphic Designers
 
 - Be the first to join!
-
