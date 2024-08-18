@@ -132,7 +132,7 @@ add other awesome Kurds, including you!
 - [Shad Abdalla](https://facebook.com/shad.cs): Laravel, PHP, SQL
 - [Shadyar Bzhar](https://github.com/Shadyar-Bzhar-Othman): Full-stack, PHP, Laravel, Javascript, Vue, Dart, Flutter, C#, Tailwind, MySQL, API
 - [Shahab Zebari](https://www.linkedin.com/in/shahabzebari): Laravel, Agile, Vue
-- [Shajwan Namiq](https://github.com/Shajwan-Namiq): Front-end Developer
+- [Shajwan Namiq](https://github.com/Shajwan-Namiq): Front-end
 - [Shakar Bakr](https://twitter.com/shakar__)
 - [Shakar Kosar](https://github.com/sShakar): Vue, React, Nuxt, Next.js TypeScript
 - [Shamlo](https://github.com/shammlo): JavaScript, TypeScript, React, Next.js Node.js Express, MongoDB
