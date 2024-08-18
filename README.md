@@ -88,6 +88,7 @@ add other awesome Kurds, including you!
 - [Ismail Ahmed](https://github.com/ismail-ahm3d): Android, Kotlin, Java
 - [Kawa Idrees](https://github.com/Kawan-edres): Front-end, JavaScript, React, Next
 - [Kodo Yousif](https://twitter.com/kodo_koye): React, Node, Electron, SQL, MongoDB
+- [Kosrat Dlshad](https://github.com/kosratdev): Android, Kotlin, Java, iOS, Swift, TypeScript, Vue
 - [Lavin Salah](https://github.com/lavin67)
 - [Lawen](https://github.com/lawen-coder)
 - [Levende Mohammad](https://github.com/Lawndlwd): Full-stack, React, Next, Vue, TypeScript, JavaScript, Node
