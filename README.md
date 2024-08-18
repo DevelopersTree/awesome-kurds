@@ -17,7 +17,6 @@ add other awesome Kurds, including you!
 - [Data Science and AI](#data-science-and-ai)
 - [Project Management](#project-management)
 - [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
-- [Graphic Designers](#graphic-designers)
 
 ## Software Development
 
