@@ -17,6 +17,7 @@ add other awesome Kurds, including you!
 - [Data Science and AI](#data-science-and-ai)
 - [Project Management](#project-management)
 - [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
+- [Quality Assurance](#quality-assurance)
 
 ## Software Development
 
@@ -213,6 +214,11 @@ add other awesome Kurds, including you!
 - [Arya Jemo](https://www.aryajemo.com)
 - [Samrand Hassan](https://linkedin.com/in/samrand96)
 
+## Quality Assurance
+
+- [Muzaffer Dler]([https://www.aryajemo.com](https://www.linkedin.com/in/muzaffer-dler-rashad/)) Robot Framework, Python, End-To-End Testing, User Expirence
+
 ## Graphic Designers
 
 - Be the first to join!
+
