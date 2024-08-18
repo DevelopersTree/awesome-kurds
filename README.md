@@ -17,24 +17,25 @@ add other awesome Kurds, including you!
 - [Data Science and AI](#data-science-and-ai)
 - [Project Management](#project-management)
 - [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
+- [Graphic Designers](#graphic-designers)
 
 ## Software Development
 
-- [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node, API, JavaScript, React, Vue
-- [Abdulbari Qaisar](https://twitter.com/B4ryy): JavaScript, React, Next
+- [Abdulbari Qaisar](https://twitter.com/B4ryy): JavaScript, React, Next.js
+- [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node.js API, JavaScript, React, Vue
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
 - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad Saeed](https://github.com/AhmadSaeed96)
-- [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next, Node, JavaScript, API
+- [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next.js Node.js JavaScript, API
 - [Ahmad Soran](https://github.com/ahmadsoran)
-- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): Node, API, NoSQL, Flutter
+- [Ahmed Abdullah](https://github.com/Ahmad-Qadir): Node.js API, NoSQL, Flutter
 - [Ahmed Jasim](https://github.com/itsahmedjasim): Vue, Nuxt, Angular, Typescript, API, Web
 - [Ahmed](https://twitter.com/rockweII_): Ruby, Rails, Hotwire, Elixir, Phoenix, PostgreSQL
-- [Akam Foad](https://twitter.com/AkamFoad): React, Node, API, TypeScript, Full-stack, Web
+- [Akam Foad](https://twitter.com/AkamFoad): React, Node.js API, TypeScript, Full-stack, Web
 - [Akar Ako Qadr](https://github.com/akarako): PHP, Laravel, API, SQL, Front-end, Bootstrap, Wordpress, Database
-- [Akar Mohammed](https://github.com/AkarM13): JavaScript, Node, React, Tailwind, Nest, MongoDB
+- [Akar Mohammed](https://github.com/AkarM13): JavaScript, Node.js React, Tailwind, Nest, MongoDB
 - [Alan Hilal](https://github.com/AlanHilal)
 - [Ali A. Koye](https://twitter.com/Ali_A_Koye)
 - [Ali Mustafa](https://github.com/Ali11Mustafa)
@@ -43,17 +44,17 @@ add other awesome Kurds, including you!
 - [Amirhossein Khosravi](https://github.com/amirkho-py): Full-stack, Python, Django, NoSQL, Flutter
 - [Ara Arsalan](https://github.com/YouCanCallMeAra)
 - [Aram Malabe](https://twitter.com/aram_malabe)
-- [Aram Rafeq](https://twitter.com/AramRafeq): Full-stack, Node, React, SQL, API, PHP, Java
+- [Aram Rafeq](https://twitter.com/AramRafeq): Full-stack, Node.js React, SQL, API, PHP, Java
 - [Aram Younis](https://github.com/aramyounis)
 - [Aran Fatih](https://github.com/aranfatih)
 - [Areyan](https://github.com/KUMachine)
 - [Ari Karim](https://twitter.com/Ari_Karim_)
 - [Arin Faraj](https://twitter.com/ArinFaraj)
 - [Aro Dana](https://github.com/arokurd)
-- [Arvin Mostafaei](https://github.com/arviinmo): React, Next, Gatsby, Node, JavaScript, Python
-- [Aryan Karim](https://github.com/aryankarim): TypeScript, Next, React, Node, MongoDB, SQL, Linux
+- [Arvin Mostafaei](https://github.com/arviinmo): React, Next.js Gatsby, Node.js JavaScript, Python
+- [Aryan Karim](https://github.com/aryankarim): TypeScript, Next.js React, Node.js MongoDB, SQL, Linux
 - [Ayman Sabri](https://twitter.com/krdayman)
-- [Ayub Abdullah](https://github.com/ayubabdullah): Node, Express, Nest, API, JavaScript, React, MySQL, MongoDB
+- [Ayub Abdullah](https://github.com/ayubabdullah): Node.js Express, Nest, API, JavaScript, React, MySQL, MongoDB
 - [Aza Kamala](https://twitter.com/AzaKamala)
 - [Azher Taimur](https://twitter.com/Freedom_Coder)
 - [Azhi Osman](https://github.com/Azhi-Othman)
@@ -67,71 +68,73 @@ add other awesome Kurds, including you!
 - [Chra Othman](https://github.com/chra-O)
 - [Daban Sadiq](https://twitter.com/DabanSadiq)
 - [Darvan Shvan](https://twitter.com/DarvanShvan)
-- [Dashty Frya](https://twitter.com/DashtyFrya): React, Next, Vue, JavaScript, Laravel, Figma
+- [Dashty Frya](https://twitter.com/DashtyFrya): React, Next.js Vue, JavaScript, Laravel, Figma
 - [Deni Kader](https://github.com/denikader)
-- [Dolan](https://twitter.com/dolanskurd): Python, Node, Back-end, JavaScript, TypeScript
+- [Dolan](https://twitter.com/dolanskurd): Python, Node.js Back-end, JavaScript, TypeScript
 - [Dyako Sharifi](https://github.com/syronz)
-- [Dyary Raoof](https://github.com/DyaryRaoof): Full-stack, JavaScript, React, Ruby, Rails, Node, Flutter
+- [Dyary Raoof](https://github.com/DyaryRaoof): Full-stack, JavaScript, React, Ruby, Rails, Node.js Flutter
 - [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh): Android, Nest, Laravel
 - [Gashbin Kanaby](https://github.com/gashben)
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
 - [Hama Dler](https://github.com/HamaDler)
 - [Handren Muhammad](https://twitter.com/Handren96)
 - [Haryad Rahim](https://github.com/hariiad)
-- [Hedi M. Sharif](https://github.com/HediMuhamad): React, Node, JavaScript, Java
+- [Hedi M. Sharif](https://github.com/HediMuhamad): React, Node.js JavaScript, Java
 - [Hema Omer](https://github.com/h3ma209)
 - [Hero Mohammed](https://github.com/herormo)
+- [Hevar Tofiq](https://github.com/rageofkurd): React, Next.js Node.js Javascript, Flutter
 - [Hewr Srood](https://twitter.com/hewr_srood)
-- [Hezha Amen](https://twitter.com/hezhamen): React, Node, Dart, JavaScript
-- [Hevar Tofiq](https://github.com/rageofkurd): React, Next, Node, Javascript, Flutter
-- [Hozan Saeed](https://github.com/hozan7): Node, React, API
+- [Hezha Amen](https://twitter.com/hezhamen): React, Node.js Dart, JavaScript
+- [Hozan Saeed](https://github.com/hozan7): Node.js React, API
 - [Ismail Ahmed](https://github.com/ismail-ahm3d): Android, Kotlin, Java
-- [Kawa Idrees](https://github.com/Kawan-edres): Front-end, JavaScript, React, Next
-- [Kodo Yousif](https://twitter.com/kodo_koye): React, Node, Electron, SQL, MongoDB
+- [Kawa Idrees](https://github.com/Kawan-edres): Front-end, JavaScript, React, Next.js
+- [Kodo Yousif](https://twitter.com/kodo_koye): React, Node.js Electron, SQL, MongoDB
 - [Kosrat Dlshad](https://github.com/kosratdev): Android, Kotlin, Java, iOS, Swift, TypeScript, Vue
 - [Lavin Salah](https://github.com/lavin67)
 - [Lawen](https://github.com/lawen-coder)
-- [Levende Mohammad](https://github.com/Lawndlwd): Full-stack, React, Next, Vue, TypeScript, JavaScript, Node
+- [Levende Mohammad](https://github.com/Lawndlwd): Full-stack, React, Next.js Vue, TypeScript, JavaScript, Node.js
 - [Lhon Rafaat](https://github.com/LhonRafaat)
+- [Mabast O. Hamadamin](https://github.com/mabastu): Swift
 - [Mahamad Esmail](https://github.com/mahamaad)
 - [Makwan Barzan](https://twitter.com/makwanbk): Swift, Objective-C, C++, Ruby
-- [Mabast O. Hamadamin](https://github.com/mabastu): Swift
-- [Meer Bahadin](https://github.com/meerbahadin): React, TypeScript, Node, Deno, Next, SQL, MongoDB
+- [Meer Bahadin](https://github.com/meerbahadin): React, TypeScript, Node.js Deno, Next.js SQL, MongoDB
 - [Miran K. Sabir](https://twitter.com/mira_01001110): Android, Flutter, JavaScript, Kotlin, Dart, Java
-- [Mohammed Bakr](https://github.com/mahammadbakr): Flutter, JavaScript, Node, Express, React, Next
+- [Mohammad Hassan](https://mohammadhassan.me): Flutter, Dart, JavaScript, React, Node.js Express, MongoDB, CSS, HTML
+- [Mohammed Bakr](https://github.com/mahammadbakr): Flutter, JavaScript, Node.js Express, React, Next.js
 - [Mohammed Hussein](https://github.com/TheKurdishProgrammer): Back-end, .NET, C#, Database, Flutter, Android, Java
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
-- [Muhammed Khalil](https://github.com/hamakh11): Full-stack, PHP, Laravel, SQL, Vue, Flutter
 - [Muhammed Amin](https://github.com/H7mosh): Flutter, .NET, HTML, CSS
+- [Muhammed Khalil](https://github.com/hamakh11): Full-stack, PHP, Laravel, SQL, Vue, Flutter
+- [Muzaffer Dler](https://github.com/jellywiz): QA, Robot Framework, Python, E2E Testing, User Experience
 - [Nashwan Abdullah](https://github.com/codenashwan)
-- [Niyaz Irfan](https://github.com/Niyaz-Dev12): Front-end, React, Node, JavaScript
+- [Niyaz Irfan](https://github.com/Niyaz-Dev12): Front-end, React, Node.js JavaScript
 - [Omer Hamza Omer](https://github.com/omer-hanaraey): PHP, Laravel, JavaScript, API, Vue, SQL, Linux
 - [Omer Tariq](https://github.com/omer-github93)
 - [Perwiz Kazemi](https://www.linkedin.com/in/parviz-kazemi-8987b170/): Nest, MongoDB, PostgreSQL, Elasticsearch, Redis, Docker
-- [Pshtiwan Mahmood](https://github.com/drpshtiwan): PHP, Laravel, Symfony, Wordpress, Node, GraphQL, API, Vue, React Native, Flutter
+- [Pshtiwan Mahmood](https://github.com/drpshtiwan): PHP, Laravel, Symfony, Wordpress, Node.js GraphQL, API, Vue, React Native, Flutter
 - [Raman Zana Khidhir](https://github.com/RamanZana): PHP, Laravel, MySQL, MSSQL, Amazon Aurora, Bootstrap, jQuery, Vue, AWS, RHEL, Cloudflare
-- [Ranj Jalal](https://github.com/RanjDev): React, Next, Tailwind, Node, Express, MongoDB, TypeScript
+- [Ranj Jalal](https://github.com/RanjDev): React, Next.js Tailwind, Node.js Express, MongoDB, TypeScript
+- [Rasool Ghorbani](https://github.com/rasool-ghorbani): .NET, MS SQL, PostgreSQL, Redis, Elk, RabbitMQ
 - [Rasty Azad](https://github.com/RastyIT97): SASS, Vue, PHP, Laravel, SQL
 - [Rawa Hamid](https://github.com/rawahamid): Laravel, PHP, Vue, React
-- [Rawand Kamal](https://github.com/RawandDev): Front-end, React, Next, JavaScript
+- [Rawand Kamal](https://github.com/RawandDev): Front-end, React, Next.js JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
 - [Rawezh Fakhraden](https://github.com/rawezhit): Dart, Flutter, Java, MySQL, Firebase, PHP, Laravel, Livewire
 - [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySQL, Firebase, PostgreSQL
 - [Rebin Qadir](https://twitter.com/rebiiin)
 - [Rekar Botany](https://github.com/RekarBotany)
-- [Revan Sarbast](https://github.com/Revan99): React, Node, SQL, MongoDB
-- [Rasool Ghorbani](https://github.com/rasool-ghorbani): .NET, MS SQL, PostgreSQL, Redis, Elk, RabbitMQ
-- [Shadyar Bzhar](https://github.com/Shadyar-Bzhar-Othman): Full-stack, PHP, Laravel, Javascript, Vue, Dart, Flutter, C#, Tailwind, MySQL, API
+- [Revan Sarbast](https://github.com/Revan99): React, Node.js SQL, MongoDB
 - [Sabat](https://github.com/Sabat96)
 - [Samrand Hassan](https://github.com/samrandhaji)
 - [Shabang](https://github.com/shabang99)
 - [Shad Abdalla](https://facebook.com/shad.cs): Laravel, PHP, SQL
+- [Shadyar Bzhar](https://github.com/Shadyar-Bzhar-Othman): Full-stack, PHP, Laravel, Javascript, Vue, Dart, Flutter, C#, Tailwind, MySQL, API
 - [Shahab Zebari](https://www.linkedin.com/in/shahabzebari): Laravel, Agile, Vue
 - [Shakar Bakr](https://twitter.com/shakar__)
-- [Shakar Kosar](https://github.com/sShakar): Vue, React, Nuxt, Next, TypeScript
-- [Shamlo](https://github.com/shammlo): JavaScript, TypeScript, React, Next, Node, Express, MongoDB
+- [Shakar Kosar](https://github.com/sShakar): Vue, React, Nuxt, Next.js TypeScript
+- [Shamlo](https://github.com/shammlo): JavaScript, TypeScript, React, Next.js Node.js Express, MongoDB
 - [Shelgir](https://github.com/Shelgir)
 - [Shkar Taib](https://twitter.com/Shkarface)
 - [Shoxan Osman](https://github.com/shoxosman)
@@ -139,15 +142,13 @@ add other awesome Kurds, including you!
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Syar](https://github.com/syar1122)
 - [Vazhin Tayeb](https://twitter.com/vazhinn)
-- [Wali](https://github.com/kurdi-dev): Next, Django, Flutter, Strapi, Express, CodeIgniter, Laravel
+- [Wali](https://github.com/kurdi-dev): Next.js Django, Flutter, Strapi, Express, CodeIgniter, Laravel
 - [Xaliss Pasha](https://twitter.com/XalissPasha)
+- [Yaqub Naqib](https://github.com/Yaqub-naqeb): JavaScript, React, Next.js Java, PHP
 - [Yousif Jasm](https://github.com/joseph625)
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217)
 - [Zhir Taha](https://github.com/zhirtaha)
-- [Mohammad Hassan](https://mohammadhassan.me): Flutter, Dart, JavaScript, React, Node, Express, MongoDB, CSS, HTML
-- [Muzaffer Dler](https://github.com/jellywiz): QA, Robot Framework, Python, E2E Testing, User Experience
-- [Yaqub Naqib](https://github.com/Yaqub-naqeb): JavaScript, React, Next, Java, PHP
-- [Yusif Qasim](https://github.com/YusifQasim): JavaScript, React, Next
+- [Yusif Qasim](https://github.com/YusifQasim): JavaScript, React, Next.js
 
 ## UI/UX
 
@@ -200,8 +201,8 @@ add other awesome Kurds, including you!
 - [Keyo Zêbarî](https://twitter.com/KeyoChali)
 - [Layik Hama](https://twitter.com/layik)
 - [Polla Fattah](https://polla-fattah.github.io/)
-- [Sina Ahmadi](https://twitter.com/sina_ahm)
 - [Sako Ranj](https://twitter.com/SakoRanj)
+- [Sina Ahmadi](https://twitter.com/sina_ahm)
 - [Razhan Hameed](https://twitter.com/RazhanHameed)
 
 ## Project Management
