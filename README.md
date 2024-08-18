@@ -149,6 +149,7 @@ add other awesome Kurds, including you!
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217)
 - [Zhir Taha](https://github.com/zhirtaha)
 - [Yusif Qasim](https://github.com/YusifQasim): JavaScript, React, Next.js
+- [Shajwan Namiq](https://github.com/Shajwan-Namiq): Front-end Developer
 
 ## UI/UX
 
