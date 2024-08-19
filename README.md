@@ -21,7 +21,6 @@ add other awesome Kurds, including you!
 
 ## Software Development
 
-- [Andam Adam](https://x.com/AdamKhidhir): php, Laravel 
 - [Abdulbari Qaisar](https://twitter.com/B4ryy): JavaScript, React, Next.js
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node.js API, JavaScript, React, Vue
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
@@ -43,6 +42,7 @@ add other awesome Kurds, including you!
 - [Amanj Adnan](https://twitter.com/AmanjGargary): Ruby, Rails, PostgreSQL
 - [Ameer Hameed](https://twitter.com/ameermirawdeli)
 - [Amirhossein Khosravi](https://github.com/amirkho-py): Full-stack, Python, Django, NoSQL, Flutter
+- [Andam Adam](https://x.com/AdamKhidhir): PHP, Laravel
 - [Ara Arsalan](https://github.com/YouCanCallMeAra)
 - [Aram Malabe](https://twitter.com/aram_malabe)
 - [Aram Rafeq](https://twitter.com/AramRafeq): Full-stack, Node.js React, SQL, API, PHP, Java
