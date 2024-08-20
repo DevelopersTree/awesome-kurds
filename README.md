@@ -37,6 +37,7 @@ add other awesome Kurds, including you!
 - [Akar Ako Qadr](https://github.com/akarako): PHP, Laravel, API, SQL, Front-end, Bootstrap, Wordpress, Database
 - [Akar Mohammed](https://github.com/AkarM13): JavaScript, Node.js React, Tailwind, Nest, MongoDB
 - [Alan Hilal](https://github.com/AlanHilal)
+- [Aland Osman](https://www.linkedin.com/in/aland-osman-560588219): Scalable Systems, Springboot, PostgreSQL, Golang, Kubernetes
 - [Ali A. Koye](https://twitter.com/Ali_A_Koye)
 - [Ali Mustafa](https://github.com/Ali11Mustafa)
 - [Amanj Adnan](https://twitter.com/AmanjGargary): Ruby, Rails, PostgreSQL
