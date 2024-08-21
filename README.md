@@ -77,7 +77,7 @@ add other awesome Kurds, including you!
 - [Gashbin Kanaby](https://github.com/gashben)
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
 - [Hama Dler](https://github.com/HamaDler) 
-- [Hana Muhammed](https://x.com/hanamuhammedA) : MERN , Cypress E2E Testing
+- [Hana Muhammed](https://x.com/HanaMuhammadA) : MERN , Cypress E2E Testing
 - [Handren Muhammad](https://twitter.com/Handren96)
 - [Haryad Rahim](https://github.com/hariiad)
 - [Hedi M. Sharif](https://github.com/HediMuhamad): React, Node.js JavaScript, Java
