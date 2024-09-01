@@ -124,6 +124,7 @@ add other awesome Kurds, including you!
 - [Rawand Kamal](https://github.com/RawandDev): Front-end, React, Next.js JavaScript
 - [Rawand Rebwar](https://twitter.com/R4wand)
 - [Rawezh Fakhraden](https://github.com/rawezhit): Dart, Flutter, Java, MySQL, Firebase, PHP, Laravel, Livewire
+- [Ramyan Palani](https://github.com/Ramyann) : HTML5, CSS3, JavaScript, React, TypeScript, SQL, MySQL, API
 - [Rebaz Raouf](https://github.com/rebaz94): Dart, Flutter, Kotlin, Java, Swift, TypeScript, MySQL, Firebase, PostgreSQL
 - [Rebin Qadir](https://twitter.com/rebiiin)
 - [Rekar Botany](https://github.com/RekarBotany)
