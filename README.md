@@ -26,6 +26,7 @@ add other awesome Kurds, including you!
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
 - [Ahmad A. Duhoki](https://github.com/AhmadDuhoki)
 - [Ahmad Abdulkhaliq](https://twitter.com/AhmadAbdulkhal3)
+- [Ahmad Masood](https://github.com/Ahm4d-Masood): Swift, Flutter, Laravel, SQL, Python
 - [Ahmad Nihmet](https://twitter.com/AhmadNihmet)
 - [Ahmad Saeed](https://github.com/AhmadSaeed96)
 - [Ahmad Saman](https://twitter.com/ahmadweisi): React, Next.js Node.js JavaScript, API
