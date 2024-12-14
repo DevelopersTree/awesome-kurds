@@ -173,6 +173,7 @@ add other awesome Kurds, including you!
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
 - [Wali](https://github.com/kurdi-dev): Adobe Xd, Figma
 - [Yaseen A. Yaseen](https://www.instagram.com/yasin.dev): Adobe Illustrator, Adobe Xd, Adobe Photoshop, InVision, Figma
+- [Mohammad Zrar](https://github.com/mohammad-zrar): Web Developer
 
 ## Cybersecurity
 
