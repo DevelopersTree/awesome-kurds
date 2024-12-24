@@ -47,7 +47,7 @@ add other awesome Kurds, including you!
 - [Andam Adam](https://x.com/AdamKhidhir): PHP, Laravel
 - [Ara Arsalan](https://github.com/YouCanCallMeAra)
 - [Aram Malabe](https://twitter.com/aram_malabe)
-- [Aram Rafeq](https://twitter.com/AramRafeq): Full-stack, Node.js React, SQL, API, PHP, Java
+- [Aram Rafeq](https://twitter.com/AramRafeq): Full-stack, Node.js, React, SQL, PHP, Java, AWS, ElasticSearch, Redis, BigQuery
 - [Aram Younis](https://github.com/aramyounis)
 - [Aran Fatih](https://github.com/aranfatih)
 - [Aren Talb](https://arentalb.com): JavaScript, Typescript, React, NextJs, Angular, Node.js, ExpressJs, NestJs, MongoDB, PostgreSQL
