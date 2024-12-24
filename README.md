@@ -94,6 +94,7 @@ add other awesome Kurds, including you!
 - [Kawa Idrees](https://github.com/Kawan-edres): Front-end, JavaScript, React, Next.js
 - [Kodo Yousif](https://twitter.com/kodo_koye): React, Node.js Electron, SQL, MongoDB
 - [Kosrat Dlshad](https://github.com/kosratdev): Android, Kotlin, Java, iOS, Swift, TypeScript, Vue
+- [Lara Raoof](https://github.com/Ge6ben): Vue, Supabase, AppScript, WebRTC, Charts, GIS and Maps
 - [Lavin Salah](https://github.com/lavin67)
 - [Lawen](https://github.com/lawen-coder)
 - [Levende Mohammad](https://github.com/Lawndlwd): Full-stack, React, Next.js Vue, TypeScript, JavaScript, Node.js
