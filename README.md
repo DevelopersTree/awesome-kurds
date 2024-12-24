@@ -50,6 +50,7 @@ add other awesome Kurds, including you!
 - [Aram Rafeq](https://twitter.com/AramRafeq): Full-stack, Node.js React, SQL, API, PHP, Java
 - [Aram Younis](https://github.com/aramyounis)
 - [Aran Fatih](https://github.com/aranfatih)
+- [Aren Talb](https://arentalb.com): JavaScript, Typescript, React, NextJs, Angular, Node.js, ExpressJs, NestJs, MongoDB, PostgreSQL
 - [Areyan](https://github.com/KUMachine)
 - [Ari Karim](https://twitter.com/Ari_Karim_)
 - [Arin Faraj](https://twitter.com/ArinFaraj)
