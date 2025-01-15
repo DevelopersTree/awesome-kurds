@@ -80,7 +80,8 @@ add other awesome Kurds, including you!
 - [Emir Muhammadzadeh](https://www.linkedin.com/in/muhammadzadeh): Android, Nest, Laravel
 - [Gashbin Kanaby](https://github.com/gashben)
 - [Goran Mustafa](https://twitter.com/Goran__mustafa)
-- [Hama Dler](https://github.com/HamaDler)
+- [Hama Dler](https://github.com/HamaDler) 
+- [Hana Muhammed](https://x.com/HanaMuhammadA) : MERN , Cypress E2E Testing
 - [Handren Muhammad](https://twitter.com/Handren96)
 - [Haryad Rahim](https://github.com/hariiad)
 - [Hedi M. Sharif](https://github.com/HediMuhamad): React, Node.js JavaScript, Java
@@ -224,6 +225,10 @@ add other awesome Kurds, including you!
 
 - [Arya Jemo](https://www.aryajemo.com)
 - [Samrand Hassan](https://linkedin.com/in/samrand96)
+
+## Quality Assurance (QA)
+
+- [Hana Muhammed](https://www.linkedin.com/in/hana-abdulla/) : QA, Manual Testing, Automation Testing, Cypress, Postman, Jira
 
 ## Graphic Designers
 
