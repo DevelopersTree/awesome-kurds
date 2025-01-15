@@ -228,7 +228,7 @@ add other awesome Kurds, including you!
 
 ## Quality Assurance (QA)
 
-- [Hana Muhammed](https://www.linkedin.com/in/hana-abdulla/) : QA, Manual Testing, Automation Testing, Cypress, Postman, Jira
+- [Hana Muhammed](https://www.linkedin.com/in/hana-abdulla) : QA, Manual Testing, Automation Testing, Cypress, Postman, Jira
 
 ## Graphic Designers
 
