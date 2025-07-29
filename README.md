@@ -23,6 +23,7 @@ add other awesome Kurds, including you!
   - [Graphic Designers](#graphic-designers)
 
 ## Software Development
+- [Sehind Hemzani](https://github.com/sa4hnd): JavaScript, Node.js, React, Next.js, Tailwind, Vite, Vue, React Native, Expo, PHP, Supabase, Firebase, MySQL, Backend, Design, UI/UX
 
 - [Abdulbari Qaisar](https://twitter.com/B4ryy): JavaScript, React, Next.js
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node.js API, JavaScript, React, Vue
@@ -163,6 +164,7 @@ add other awesome Kurds, including you!
 - [Zhir Taha](https://github.com/zhirtaha)
 
 ## UI/UX
+- [Sehind Hemzani](https://github.com/sa4hnd): Figma, Framer
 
 - [Abdullah](https://twitter.com/abdullahQomer)
 - [Ahmed Safaa](https://www.linkedin.com/in/ahmed1safaa)
