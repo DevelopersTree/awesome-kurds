@@ -9,22 +9,18 @@ Feel free to follow the [Contribution Guidelines](.github/CONTRIBUTING.md) to
 add other awesome Kurds, including you!
 
 ### Contents
-
-- [Awesome Kurds ](#awesome-kurds-)
-    - [Contents](#contents)
-  - [Software Development](#software-development)
-  - [UI/UX](#uiux)
-  - [Cybersecurity](#cybersecurity)
-  - [Networking](#networking)
-  - [Data Science and AI](#data-science-and-ai)
-  - [Project Management](#project-management)
-  - [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
-  - [Quality Assurance (QA)](#quality-assurance-qa)
-  - [Graphic Designers](#graphic-designers)
+                
+- [Software Development](#software-development)
+- [UI/UX](#uiux)
+- [Cybersecurity](#cybersecurity)
+- [Networking](#networking)
+- [Data Science and AI](#data-science-and-ai)
+- [Project Management](#project-management)
+- [Cloud Architecture and System Design](#cloud-architecture-and-system-design)
+- [Quality Assurance (QA)](#quality-assurance-qa)
+- [Graphic Designers](#graphic-designers)
 
 ## Software Development
-- [Sehind Hemzani](https://github.com/sa4hnd): JavaScript, Node.js, React, Next.js, Tailwind, Vite, Vue, React Native, Expo, PHP, Supabase, Firebase, MySQL, Backend, Design, UI/UX
-
 - [Abdulbari Qaisar](https://twitter.com/B4ryy): JavaScript, React, Next.js
 - [Abdulbasit Salah](https://github.com/abdulbasit-dev): PHP, Laravel, Node.js API, JavaScript, React, Vue
 - [Abdulmajeed Jaafer](https://github.com/Abdulmajeed98)
@@ -141,6 +137,7 @@ add other awesome Kurds, including you!
 - [Revan Sarbast](https://github.com/Revan99): React, Node.js SQL, MongoDB
 - [Sabat](https://github.com/Sabat96)
 - [Samrand Hassan](https://github.com/samrandhaji)
+- [Sehind Hemzani](https://github.com/sa4hnd): JavaScript, Node.js, React, Next.js, Tailwind, Vite, Vue, React Native, Expo, PHP, Supabase, Firebase, MySQL, Backend, Design, UI/UX
 - [Shabang](https://github.com/shabang99)
 - [Shad Abdalla](https://facebook.com/shad.cs): Laravel, PHP, SQL
 - [Shadyar Bzhar](https://github.com/Shadyar-Bzhar-Othman): Full-stack, PHP, Laravel, Javascript, Vue, Dart, Flutter, C#, Tailwind, MySQL, API
