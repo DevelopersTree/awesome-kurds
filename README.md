@@ -144,6 +144,7 @@ add other awesome Kurds, including you!
 - [Shahab Zebari](https://www.linkedin.com/in/shahabzebari): Laravel, Agile, Vue
 - [Shajwan Namiq](https://github.com/Shajwan-Namiq): Front-end
 - [Shakar Bakr](https://twitter.com/shakar__)
+- [Mohammad Rustam](https://github.com/mohammadrasool33)
 - [Shakar Kosar](https://github.com/sShakar): Vue, React, Nuxt, Next.js TypeScript
 - [Shamlo](https://github.com/shammlo): JavaScript, TypeScript, React, Next.js Node.js Express, MongoDB
 - [Shelgir](https://github.com/Shelgir)
