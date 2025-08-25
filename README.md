@@ -149,6 +149,7 @@ add other awesome Kurds, including you!
 - [Shamlo](https://github.com/shammlo): JavaScript, TypeScript, React, Next.js Node.js Express, MongoDB
 - [Shelgir](https://github.com/Shelgir)
 - [Shkar Taib](https://twitter.com/Shkarface)
+- [Shko Maghdid](https://github.com/ShkoMaghdidEbrahim): React, React Native, ElectronJS, NodeJS, Express, MySQL, JavaScript, TypeScript, Tailwind
 - [Shoxan Osman](https://github.com/shoxosman)
 - [Sirwan Azad](https://github.com/sirwanazad): Java, Spring Boot, Oracle, Tomcat
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
