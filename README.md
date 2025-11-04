@@ -164,7 +164,7 @@ add other awesome Kurds, including you!
 - [Yusif Qasim](https://github.com/YusifQasim): JavaScript, React, Next.js
 - [Zardasht Rwandzi](https://www.linkedin.com/in/zardasht-rwandzi-86a883217)
 - [Zhir Taha](https://github.com/zhirtaha)
-- [Omar Falah](https://github.com/omarfalah01):Flutter, Next.JS, Java, MySQL, Node.js, Firebase, Supabase
+- [Omar Falah](https://github.com/omarfalah01): Flutter, Express.JS, Java, MySQL, Node.js, Firebase, Supabase
 
 ## UI/UX
 - [Sehind Hemzani](https://github.com/sa4hnd): Figma, Framer
